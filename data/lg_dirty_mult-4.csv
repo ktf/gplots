@@ -1,0 +1,3340 @@
+25-Apr-2012 14:18:59 CEST  Initiating request to open file root://eoscms//eos/cms/store/data/Run2012A/ZeroBias4/RAW/v1/000/190/595/5EF6C709-5880-E111-B83F-003048F117F6.root?svcClass=default
+120425 14:18:59 001 Xrd: GoToAnotherServer: Going to: lxfsrk51a04.cern.ch:1095
+25-Apr-2012 14:19:00 CEST  Successfully opened file root://eoscms//eos/cms/store/data/Run2012A/ZeroBias4/RAW/v1/000/190/595/5EF6C709-5880-E111-B83F-003048F117F6.root?svcClass=default
+Begin processing the 1st record. Run 190595, Event 23592423, LumiSection 35 at 25-Apr-2012 14:19:28.443 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:19:46 CEST  Run: 190595 Event: 23592423
+MemoryCheck: event : VSIZE 1865.09 0 RSS 1459.53 0
+
+%MSG
+Begin processing the 2nd record. Run 190595, Event 23588471, LumiSection 35 at 25-Apr-2012 14:19:46.602 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:19:50 CEST  Run: 190595 Event: 23588471
+MemoryCheck: event : VSIZE 1865.71 0 RSS 1464.76 0
+
+%MSG
+Begin processing the 3rd record. Run 190595, Event 23598759, LumiSection 35 at 25-Apr-2012 14:19:50.463 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:19:53 CEST  Run: 190595 Event: 23598759
+MemoryCheck: event : VSIZE 1865.71 0 RSS 1463.51 0
+
+%MSG
+Begin processing the 4th record. Run 190595, Event 23596599, LumiSection 35 at 25-Apr-2012 14:19:53.374 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:19:58 CEST  Run: 190595 Event: 23596599
+MemoryCheck: event : VSIZE 1869.71 0 RSS 1466.61 0
+
+%MSG
+Begin processing the 5th record. Run 190595, Event 23600111, LumiSection 35 at 25-Apr-2012 14:19:58.563 CEST
+%MSG-w TwoTrackMinimumDistanceLineLine:  GlobalMuonProducer:globalMuons  25-Apr-2012 14:20:05 CEST Run: 190595 Event: 23600111
+charge of input track is not zero or field non zero
+ positions:  (15.3077,-102.855,-2313.47)  ,  (0.0728689,0.0550145,0.256729) 
+ Bz fields: 0 , 3.8112
+ charges: 1 , 0
+%MSG
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:20:07 CEST  Run: 190595 Event: 23600111
+MemoryCheck: event : VSIZE 1882.33 0 RSS 1482.88 0
+
+%MSG
+Begin processing the 6th record. Run 190595, Event 23605967, LumiSection 35 at 25-Apr-2012 14:20:07.799 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:20:10 CEST  Run: 190595 Event: 23605967
+MemoryCheck: event : VSIZE 1882.33 0 RSS 1479.71 0
+
+%MSG
+Begin processing the 7th record. Run 190595, Event 23612855, LumiSection 35 at 25-Apr-2012 14:20:10.803 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:20:15 CEST  Run: 190595 Event: 23612855
+MemoryCheck: event : VSIZE 1886.33 0 RSS 1478.49 0
+
+%MSG
+Begin processing the 8th record. Run 190595, Event 23612079, LumiSection 35 at 25-Apr-2012 14:20:15.945 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:20:19 CEST  Run: 190595 Event: 23612079
+MemoryCheck: event : VSIZE 1886.33 0 RSS 1474.34 0
+
+%MSG
+Begin processing the 9th record. Run 190595, Event 23617855, LumiSection 35 at 25-Apr-2012 14:20:19.344 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:20:23 CEST  Run: 190595 Event: 23617855
+MemoryCheck: event : VSIZE 1886.33 0 RSS 1473.02 0
+
+%MSG
+Begin processing the 10th record. Run 190595, Event 23618143, LumiSection 35 at 25-Apr-2012 14:20:23.113 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:20:28 CEST  Run: 190595 Event: 23618143
+MemoryCheck: event : VSIZE 1886.33 0 RSS 1474 0
+
+%MSG
+Begin processing the 11th record. Run 190595, Event 23618255, LumiSection 35 at 25-Apr-2012 14:20:28.325 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:20:32 CEST  Run: 190595 Event: 23618255
+MemoryCheck: event : VSIZE 1886.33 0 RSS 1474.06 0
+
+%MSG
+Begin processing the 12th record. Run 190595, Event 23621303, LumiSection 35 at 25-Apr-2012 14:20:32.551 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:20:38 CEST  Run: 190595 Event: 23621303
+MemoryCheck: event : VSIZE 1886.33 0 RSS 1474.21 0
+
+%MSG
+Begin processing the 13th record. Run 190595, Event 23631503, LumiSection 35 at 25-Apr-2012 14:20:38.288 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:20:45 CEST  Run: 190595 Event: 23631503
+MemoryCheck: event : VSIZE 1894.33 0 RSS 1482.7 0
+
+%MSG
+Begin processing the 14th record. Run 190595, Event 23631423, LumiSection 35 at 25-Apr-2012 14:20:45.742 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:20:52 CEST  Run: 190595 Event: 23631423
+MemoryCheck: event : VSIZE 1898.33 0 RSS 1483.71 0
+
+%MSG
+Begin processing the 15th record. Run 190595, Event 23632743, LumiSection 35 at 25-Apr-2012 14:20:53.007 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:20:54 CEST  Run: 190595 Event: 23632743
+MemoryCheck: event : VSIZE 1898.33 0 RSS 1480.95 0
+
+%MSG
+Begin processing the 16th record. Run 190595, Event 23628303, LumiSection 35 at 25-Apr-2012 14:20:54.547 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:20:57 CEST  Run: 190595 Event: 23628303
+MemoryCheck: event : VSIZE 1898.33 0 RSS 1476.76 0
+
+%MSG
+Begin processing the 17th record. Run 190595, Event 23633839, LumiSection 35 at 25-Apr-2012 14:20:57.555 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:21:01 CEST  Run: 190595 Event: 23633839
+MemoryCheck: event : VSIZE 1898.33 0 RSS 1476.77 0
+
+%MSG
+Begin processing the 18th record. Run 190595, Event 23643439, LumiSection 35 at 25-Apr-2012 14:21:01.449 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:21:06 CEST  Run: 190595 Event: 23643439
+MemoryCheck: event : VSIZE 1898.33 0 RSS 1476.79 0
+
+%MSG
+Begin processing the 19th record. Run 190595, Event 23642439, LumiSection 35 at 25-Apr-2012 14:21:06.191 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:21:17 CEST  Run: 190595 Event: 23642439
+MemoryCheck: event : VSIZE 1926.33 0 RSS 1515.4 0
+
+%MSG
+Begin processing the 20th record. Run 190595, Event 23644303, LumiSection 35 at 25-Apr-2012 14:21:17.912 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:21:23 CEST  Run: 190595 Event: 23644303
+MemoryCheck: event : VSIZE 1926.33 0 RSS 1489.85 0
+
+%MSG
+Begin processing the 21st record. Run 190595, Event 23653663, LumiSection 35 at 25-Apr-2012 14:21:23.656 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:21:27 CEST  Run: 190595 Event: 23653663
+MemoryCheck: event : VSIZE 1906.33 0 RSS 1481.31 0
+
+%MSG
+Begin processing the 22nd record. Run 190595, Event 23652919, LumiSection 35 at 25-Apr-2012 14:21:27.042 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:21:32 CEST  Run: 190595 Event: 23652919
+MemoryCheck: event : VSIZE 1906.33 0 RSS 1480.54 0
+
+%MSG
+Begin processing the 23rd record. Run 190595, Event 23657487, LumiSection 35 at 25-Apr-2012 14:21:32.739 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:21:36 CEST  Run: 190595 Event: 23657487
+MemoryCheck: event : VSIZE 1906.33 0 RSS 1480.55 0
+
+%MSG
+Begin processing the 24th record. Run 190595, Event 23658391, LumiSection 35 at 25-Apr-2012 14:21:36.109 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:21:38 CEST  Run: 190595 Event: 23658391
+MemoryCheck: event : VSIZE 1906.33 0 RSS 1478.27 0
+
+%MSG
+Begin processing the 25th record. Run 190595, Event 23662615, LumiSection 35 at 25-Apr-2012 14:21:38.900 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:21:46 CEST  Run: 190595 Event: 23662615
+MemoryCheck: event : VSIZE 1906.33 0 RSS 1479.78 0
+
+%MSG
+Begin processing the 26th record. Run 190595, Event 23663823, LumiSection 35 at 25-Apr-2012 14:21:46.128 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:21:50 CEST  Run: 190595 Event: 23663823
+MemoryCheck: event : VSIZE 1906.33 0 RSS 1479.85 0
+
+%MSG
+Begin processing the 27th record. Run 190595, Event 23663127, LumiSection 35 at 25-Apr-2012 14:21:50.656 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:21:58 CEST  Run: 190595 Event: 23663127
+MemoryCheck: event : VSIZE 1906.33 0 RSS 1498.83 0
+
+%MSG
+Begin processing the 28th record. Run 190595, Event 23670807, LumiSection 35 at 25-Apr-2012 14:21:58.139 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:22:01 CEST  Run: 190595 Event: 23670807
+MemoryCheck: event : VSIZE 1906.33 0 RSS 1498.88 0
+
+%MSG
+Begin processing the 29th record. Run 190595, Event 23674063, LumiSection 35 at 25-Apr-2012 14:22:01.183 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:22:06 CEST  Run: 190595 Event: 23674063
+MemoryCheck: event : VSIZE 1906.33 0 RSS 1498.88 0
+
+%MSG
+Begin processing the 30th record. Run 190595, Event 23679191, LumiSection 35 at 25-Apr-2012 14:22:06.270 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:22:14 CEST  Run: 190595 Event: 23679191
+MemoryCheck: event : VSIZE 1910.33 0 RSS 1505.85 0
+
+%MSG
+Begin processing the 31st record. Run 190595, Event 23687615, LumiSection 35 at 25-Apr-2012 14:22:14.777 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:22:17 CEST  Run: 190595 Event: 23687615
+MemoryCheck: event : VSIZE 1910.33 0 RSS 1503.47 0
+
+%MSG
+Begin processing the 32nd record. Run 190595, Event 23687535, LumiSection 35 at 25-Apr-2012 14:22:17.801 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:22:23 CEST  Run: 190595 Event: 23687535
+MemoryCheck: event : VSIZE 1910.33 0 RSS 1501.43 0
+
+%MSG
+Begin processing the 33rd record. Run 190595, Event 23694391, LumiSection 35 at 25-Apr-2012 14:22:23.325 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:22:31 CEST  Run: 190595 Event: 23694391
+MemoryCheck: event : VSIZE 1914.33 0 RSS 1502.76 0
+
+%MSG
+Begin processing the 34th record. Run 190595, Event 23695375, LumiSection 35 at 25-Apr-2012 14:22:31.096 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:22:33 CEST  Run: 190595 Event: 23695375
+MemoryCheck: event : VSIZE 1914.33 0 RSS 1502.79 0
+
+%MSG
+Begin processing the 35th record. Run 190595, Event 23690647, LumiSection 35 at 25-Apr-2012 14:22:33.402 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:22:37 CEST  Run: 190595 Event: 23690647
+MemoryCheck: event : VSIZE 1914.79 0 RSS 1500.88 0
+
+%MSG
+Begin processing the 36th record. Run 190595, Event 23689487, LumiSection 35 at 25-Apr-2012 14:22:37.159 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:22:52 CEST  Run: 190595 Event: 23689487
+MemoryCheck: event : VSIZE 1942.79 0 RSS 1544.94 0
+
+%MSG
+Begin processing the 37th record. Run 190595, Event 23695031, LumiSection 35 at 25-Apr-2012 14:22:52.568 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:22:55 CEST  Run: 190595 Event: 23695031
+MemoryCheck: event : VSIZE 1942.79 0 RSS 1514.49 0
+
+%MSG
+Begin processing the 38th record. Run 190595, Event 23689983, LumiSection 35 at 25-Apr-2012 14:22:55.546 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:23:07 CEST  Run: 190595 Event: 23689983
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1536.12 0
+
+%MSG
+Begin processing the 39th record. Run 190595, Event 23696015, LumiSection 35 at 25-Apr-2012 14:23:07.715 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:23:11 CEST  Run: 190595 Event: 23696015
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1516.4 0
+
+%MSG
+Begin processing the 40th record. Run 190595, Event 23696807, LumiSection 35 at 25-Apr-2012 14:23:11.496 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:23:18 CEST  Run: 190595 Event: 23696807
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1514.43 0
+
+%MSG
+Begin processing the 41st record. Run 190595, Event 23701551, LumiSection 35 at 25-Apr-2012 14:23:18.940 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:23:24 CEST  Run: 190595 Event: 23701551
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1514.44 0
+
+%MSG
+Begin processing the 42nd record. Run 190595, Event 23697439, LumiSection 35 at 25-Apr-2012 14:23:24.647 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:23:34 CEST  Run: 190595 Event: 23697439
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1520.11 0
+
+%MSG
+Begin processing the 43rd record. Run 190595, Event 23701663, LumiSection 35 at 25-Apr-2012 14:23:34.098 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:23:38 CEST  Run: 190595 Event: 23701663
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1515.98 0
+
+%MSG
+Begin processing the 44th record. Run 190595, Event 23705127, LumiSection 35 at 25-Apr-2012 14:23:38.468 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:23:42 CEST  Run: 190595 Event: 23705127
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1516.04 0
+
+%MSG
+Begin processing the 45th record. Run 190595, Event 23711375, LumiSection 35 at 25-Apr-2012 14:23:42.867 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:23:46 CEST  Run: 190595 Event: 23711375
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1515.5 0
+
+%MSG
+Begin processing the 46th record. Run 190595, Event 23707823, LumiSection 35 at 25-Apr-2012 14:23:46.406 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:23:48 CEST  Run: 190595 Event: 23707823
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1515.5 0
+
+%MSG
+Begin processing the 47th record. Run 190595, Event 23711223, LumiSection 35 at 25-Apr-2012 14:23:48.671 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:23:54 CEST  Run: 190595 Event: 23711223
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1514.17 0
+
+%MSG
+Begin processing the 48th record. Run 190595, Event 23709159, LumiSection 35 at 25-Apr-2012 14:23:54.121 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:23:58 CEST  Run: 190595 Event: 23709159
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1514.17 0
+
+%MSG
+Begin processing the 49th record. Run 190595, Event 23713967, LumiSection 35 at 25-Apr-2012 14:23:58.637 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:24:05 CEST  Run: 190595 Event: 23713967
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1514.56 0
+
+%MSG
+Begin processing the 50th record. Run 190595, Event 23717239, LumiSection 35 at 25-Apr-2012 14:24:05.608 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:24:07 CEST  Run: 190595 Event: 23717239
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1514.56 0
+
+%MSG
+Begin processing the 51st record. Run 190595, Event 23714191, LumiSection 35 at 25-Apr-2012 14:24:07.973 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:24:12 CEST  Run: 190595 Event: 23714191
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1514.56 0
+
+%MSG
+Begin processing the 52nd record. Run 190595, Event 23717791, LumiSection 35 at 25-Apr-2012 14:24:12.917 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:24:20 CEST  Run: 190595 Event: 23717791
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1514.56 0
+
+%MSG
+Begin processing the 53rd record. Run 190595, Event 23719191, LumiSection 35 at 25-Apr-2012 14:24:20.131 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:24:25 CEST  Run: 190595 Event: 23719191
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1514.56 0
+
+%MSG
+Begin processing the 54th record. Run 190595, Event 23723487, LumiSection 35 at 25-Apr-2012 14:24:25.082 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:24:27 CEST  Run: 190595 Event: 23723487
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1514.56 0
+
+%MSG
+Begin processing the 55th record. Run 190595, Event 23726599, LumiSection 35 at 25-Apr-2012 14:24:27.185 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:24:30 CEST  Run: 190595 Event: 23726599
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1514.56 0
+
+%MSG
+Begin processing the 56th record. Run 190595, Event 23725951, LumiSection 35 at 25-Apr-2012 14:24:30.165 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:24:32 CEST  Run: 190595 Event: 23725951
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1514.56 0
+
+%MSG
+Begin processing the 57th record. Run 190595, Event 23728191, LumiSection 35 at 25-Apr-2012 14:24:32.706 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:24:35 CEST  Run: 190595 Event: 23728191
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1514.56 0
+
+%MSG
+Begin processing the 58th record. Run 190595, Event 23734487, LumiSection 35 at 25-Apr-2012 14:24:35.945 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:24:40 CEST  Run: 190595 Event: 23734487
+MemoryCheck: event : VSIZE 1946.79 0 RSS 1514.56 0
+
+%MSG
+Begin processing the 59th record. Run 190595, Event 23732271, LumiSection 35 at 25-Apr-2012 14:24:40.753 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:24:50 CEST  Run: 190595 Event: 23732271
+MemoryCheck: event : VSIZE 1958.79 0 RSS 1525.91 0
+
+%MSG
+Begin processing the 60th record. Run 190595, Event 23739407, LumiSection 35 at 25-Apr-2012 14:24:50.351 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:24:56 CEST  Run: 190595 Event: 23739407
+MemoryCheck: event : VSIZE 1958.79 0 RSS 1519.81 0
+
+%MSG
+Begin processing the 61st record. Run 190595, Event 23740287, LumiSection 35 at 25-Apr-2012 14:24:56.247 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:25:02 CEST  Run: 190595 Event: 23740287
+MemoryCheck: event : VSIZE 1958.79 0 RSS 1517.81 0
+
+%MSG
+Begin processing the 62nd record. Run 190595, Event 23739743, LumiSection 35 at 25-Apr-2012 14:25:02.419 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:25:09 CEST  Run: 190595 Event: 23739743
+MemoryCheck: event : VSIZE 1958.79 0 RSS 1517.81 0
+
+%MSG
+Begin processing the 63rd record. Run 190595, Event 23747207, LumiSection 35 at 25-Apr-2012 14:25:09.340 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:25:13 CEST  Run: 190595 Event: 23747207
+MemoryCheck: event : VSIZE 1958.79 0 RSS 1517.81 0
+
+%MSG
+Begin processing the 64th record. Run 190595, Event 23749631, LumiSection 35 at 25-Apr-2012 14:25:13.607 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:25:17 CEST  Run: 190595 Event: 23749631
+MemoryCheck: event : VSIZE 1958.79 0 RSS 1517.81 0
+
+%MSG
+Begin processing the 65th record. Run 190595, Event 23758207, LumiSection 35 at 25-Apr-2012 14:25:17.209 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:25:21 CEST  Run: 190595 Event: 23758207
+MemoryCheck: event : VSIZE 1958.79 0 RSS 1517.81 0
+
+%MSG
+Begin processing the 66th record. Run 190595, Event 23765439, LumiSection 35 at 25-Apr-2012 14:25:21.759 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:25:28 CEST  Run: 190595 Event: 23765439
+MemoryCheck: event : VSIZE 1958.79 0 RSS 1517.86 0
+
+%MSG
+Begin processing the 67th record. Run 190595, Event 23766551, LumiSection 35 at 25-Apr-2012 14:25:29.005 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:25:33 CEST  Run: 190595 Event: 23766551
+MemoryCheck: event : VSIZE 1958.79 0 RSS 1517.86 0
+
+%MSG
+Begin processing the 68th record. Run 190595, Event 23765335, LumiSection 35 at 25-Apr-2012 14:25:33.326 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:25:35 CEST  Run: 190595 Event: 23765335
+MemoryCheck: event : VSIZE 1958.79 0 RSS 1517.87 0
+
+%MSG
+Begin processing the 69th record. Run 190595, Event 23764175, LumiSection 35 at 25-Apr-2012 14:25:35.554 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:25:43 CEST  Run: 190595 Event: 23764175
+MemoryCheck: event : VSIZE 1958.79 0 RSS 1516.5 0
+
+%MSG
+Begin processing the 70th record. Run 190595, Event 23769175, LumiSection 35 at 25-Apr-2012 14:25:43.092 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:25:50 CEST  Run: 190595 Event: 23769175
+MemoryCheck: event : VSIZE 1958.79 0 RSS 1519.31 0
+
+%MSG
+Begin processing the 71st record. Run 190595, Event 23773503, LumiSection 35 at 25-Apr-2012 14:25:50.479 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:25:54 CEST  Run: 190595 Event: 23773503
+MemoryCheck: event : VSIZE 1958.79 0 RSS 1520.31 0
+
+%MSG
+Begin processing the 72nd record. Run 190595, Event 23775031, LumiSection 35 at 25-Apr-2012 14:25:54.199 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:26:04 CEST  Run: 190595 Event: 23775031
+MemoryCheck: event : VSIZE 1962.79 0 RSS 1527.58 0
+
+%MSG
+Begin processing the 73rd record. Run 190595, Event 23782439, LumiSection 35 at 25-Apr-2012 14:26:04.218 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:26:08 CEST  Run: 190595 Event: 23782439
+MemoryCheck: event : VSIZE 1962.79 0 RSS 1523.27 0
+
+%MSG
+Begin processing the 74th record. Run 190595, Event 23781727, LumiSection 35 at 25-Apr-2012 14:26:08.612 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:26:12 CEST  Run: 190595 Event: 23781727
+MemoryCheck: event : VSIZE 1962.79 0 RSS 1519.61 0
+
+%MSG
+Begin processing the 75th record. Run 190595, Event 23784871, LumiSection 35 at 25-Apr-2012 14:26:12.514 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:26:14 CEST  Run: 190595 Event: 23784871
+MemoryCheck: event : VSIZE 1962.79 0 RSS 1519.7 0
+
+%MSG
+Begin processing the 76th record. Run 190595, Event 23790519, LumiSection 35 at 25-Apr-2012 14:26:14.557 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:26:17 CEST  Run: 190595 Event: 23790519
+MemoryCheck: event : VSIZE 1962.79 0 RSS 1519.7 0
+
+%MSG
+Begin processing the 77th record. Run 190595, Event 23788551, LumiSection 35 at 25-Apr-2012 14:26:17.580 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:26:22 CEST  Run: 190595 Event: 23788551
+MemoryCheck: event : VSIZE 1962.79 0 RSS 1519.71 0
+
+%MSG
+Begin processing the 78th record. Run 190595, Event 23790631, LumiSection 35 at 25-Apr-2012 14:26:22.742 CEST
+NMax Jets exceded..
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:26:35 CEST  Run: 190595 Event: 23790631
+MemoryCheck: event : VSIZE 1978.79 0 RSS 1544.95 0
+
+%MSG
+Begin processing the 79th record. Run 190595, Event 23791255, LumiSection 35 at 25-Apr-2012 14:26:36.011 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:26:39 CEST  Run: 190595 Event: 23791255
+MemoryCheck: event : VSIZE 1978.79 0 RSS 1524.65 0
+
+%MSG
+Begin processing the 80th record. Run 190595, Event 23792999, LumiSection 35 at 25-Apr-2012 14:26:39.520 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:26:47 CEST  Run: 190595 Event: 23792999
+MemoryCheck: event : VSIZE 1978.79 0 RSS 1522.66 0
+
+%MSG
+Begin processing the 81st record. Run 190595, Event 23790079, LumiSection 35 at 25-Apr-2012 14:26:47.712 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:27:04 CEST  Run: 190595 Event: 23790079
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1564.27 0
+
+%MSG
+Begin processing the 82nd record. Run 190595, Event 23793967, LumiSection 35 at 25-Apr-2012 14:27:04.719 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:27:10 CEST  Run: 190595 Event: 23793967
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1526.24 0
+
+%MSG
+Begin processing the 83rd record. Run 190595, Event 23794759, LumiSection 35 at 25-Apr-2012 14:27:10.743 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:27:13 CEST  Run: 190595 Event: 23794759
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1523.27 0
+
+%MSG
+Begin processing the 84th record. Run 190595, Event 23804391, LumiSection 35 at 25-Apr-2012 14:27:13.623 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:27:16 CEST  Run: 190595 Event: 23804391
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1519.68 0
+
+%MSG
+Begin processing the 85th record. Run 190595, Event 23809143, LumiSection 35 at 25-Apr-2012 14:27:16.764 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:27:19 CEST  Run: 190595 Event: 23809143
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1519.68 0
+
+%MSG
+Begin processing the 86th record. Run 190595, Event 23812487, LumiSection 35 at 25-Apr-2012 14:27:19.269 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:27:22 CEST  Run: 190595 Event: 23812487
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1519.68 0
+
+%MSG
+Begin processing the 87th record. Run 190595, Event 23815695, LumiSection 35 at 25-Apr-2012 14:27:22.397 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:27:25 CEST  Run: 190595 Event: 23815695
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1519.68 0
+
+%MSG
+Begin processing the 88th record. Run 190595, Event 23814855, LumiSection 35 at 25-Apr-2012 14:27:25.881 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:27:46 CEST  Run: 190595 Event: 23814855
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1521.97 0
+
+%MSG
+Begin processing the 89th record. Run 190595, Event 23818983, LumiSection 35 at 25-Apr-2012 14:27:46.067 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:27:49 CEST  Run: 190595 Event: 23818983
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1521.98 0
+
+%MSG
+Begin processing the 90th record. Run 190595, Event 23819727, LumiSection 35 at 25-Apr-2012 14:27:49.875 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:27:54 CEST  Run: 190595 Event: 23819727
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1521.98 0
+
+%MSG
+Begin processing the 91st record. Run 190595, Event 23828903, LumiSection 35 at 25-Apr-2012 14:27:54.573 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:27:58 CEST  Run: 190595 Event: 23828903
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1521.98 0
+
+%MSG
+Begin processing the 92nd record. Run 190595, Event 23833255, LumiSection 35 at 25-Apr-2012 14:27:58.553 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:28:07 CEST  Run: 190595 Event: 23833255
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1530.18 0
+
+%MSG
+Begin processing the 93rd record. Run 190595, Event 23839127, LumiSection 35 at 25-Apr-2012 14:28:07.585 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:28:11 CEST  Run: 190595 Event: 23839127
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1526.66 0
+
+%MSG
+Begin processing the 94th record. Run 190595, Event 23842823, LumiSection 35 at 25-Apr-2012 14:28:11.923 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:28:15 CEST  Run: 190595 Event: 23842823
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1523.37 0
+
+%MSG
+Begin processing the 95th record. Run 190595, Event 23850335, LumiSection 35 at 25-Apr-2012 14:28:15.016 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:28:19 CEST  Run: 190595 Event: 23850335
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1523.38 0
+
+%MSG
+Begin processing the 96th record. Run 190595, Event 23853271, LumiSection 35 at 25-Apr-2012 14:28:19.947 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:28:24 CEST  Run: 190595 Event: 23853271
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1523.38 0
+
+%MSG
+Begin processing the 97th record. Run 190595, Event 23857887, LumiSection 35 at 25-Apr-2012 14:28:24.821 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:28:29 CEST  Run: 190595 Event: 23857887
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1523.66 0
+
+%MSG
+Begin processing the 98th record. Run 190595, Event 23860935, LumiSection 35 at 25-Apr-2012 14:28:29.988 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:28:36 CEST  Run: 190595 Event: 23860935
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1525.21 0
+
+%MSG
+Begin processing the 99th record. Run 190595, Event 23866319, LumiSection 35 at 25-Apr-2012 14:28:36.823 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:28:43 CEST  Run: 190595 Event: 23866319
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1525.21 0
+
+%MSG
+Begin processing the 100th record. Run 190595, Event 23868775, LumiSection 35 at 25-Apr-2012 14:28:43.845 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:28:48 CEST  Run: 190595 Event: 23868775
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1525.21 0
+
+%MSG
+Begin processing the 101st record. Run 190595, Event 23868455, LumiSection 35 at 25-Apr-2012 14:28:48.358 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:28:52 CEST  Run: 190595 Event: 23868455
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1525.21 0
+
+%MSG
+Begin processing the 102nd record. Run 190595, Event 23870111, LumiSection 35 at 25-Apr-2012 14:28:53.005 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:28:59 CEST  Run: 190595 Event: 23870111
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1525.21 0
+
+%MSG
+Begin processing the 103rd record. Run 190595, Event 23880983, LumiSection 35 at 25-Apr-2012 14:28:59.467 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:29:02 CEST  Run: 190595 Event: 23880983
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1525.21 0
+
+%MSG
+Begin processing the 104th record. Run 190595, Event 23889335, LumiSection 35 at 25-Apr-2012 14:29:02.747 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:29:06 CEST  Run: 190595 Event: 23889335
+MemoryCheck: event : VSIZE 2002.79 0 RSS 1525.21 0
+
+%MSG
+Begin processing the 105th record. Run 190595, Event 23885631, LumiSection 35 at 25-Apr-2012 14:29:06.221 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:29:23 CEST  Run: 190595 Event: 23885631
+MemoryCheck: event : VSIZE 2018.79 0 RSS 1568.59 0
+
+%MSG
+Begin processing the 106th record. Run 190595, Event 23887599, LumiSection 35 at 25-Apr-2012 14:29:23.483 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:29:33 CEST  Run: 190595 Event: 23887599
+MemoryCheck: event : VSIZE 2018.79 0 RSS 1538.52 0
+
+%MSG
+Begin processing the 107th record. Run 190595, Event 23890583, LumiSection 35 at 25-Apr-2012 14:29:33.681 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:29:38 CEST  Run: 190595 Event: 23890583
+MemoryCheck: event : VSIZE 2018.79 0 RSS 1529.31 0
+
+%MSG
+Begin processing the 108th record. Run 190595, Event 23893999, LumiSection 35 at 25-Apr-2012 14:29:38.303 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:29:43 CEST  Run: 190595 Event: 23893999
+MemoryCheck: event : VSIZE 2018.79 0 RSS 1527 0
+
+%MSG
+Begin processing the 109th record. Run 190595, Event 23896887, LumiSection 35 at 25-Apr-2012 14:29:43.215 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:29:53 CEST  Run: 190595 Event: 23896887
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1541.39 0
+
+%MSG
+Begin processing the 110th record. Run 190595, Event 23898855, LumiSection 35 at 25-Apr-2012 14:29:53.822 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:29:56 CEST  Run: 190595 Event: 23898855
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1530.46 0
+
+%MSG
+Begin processing the 111th record. Run 190595, Event 23904727, LumiSection 35 at 25-Apr-2012 14:29:56.855 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:30:03 CEST  Run: 190595 Event: 23904727
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1527.12 0
+
+%MSG
+Begin processing the 112th record. Run 190595, Event 23905159, LumiSection 35 at 25-Apr-2012 14:30:03.877 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:30:09 CEST  Run: 190595 Event: 23905159
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1527.22 0
+
+%MSG
+Begin processing the 113th record. Run 190595, Event 23913015, LumiSection 35 at 25-Apr-2012 14:30:09.971 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:30:16 CEST  Run: 190595 Event: 23913015
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1527.22 0
+
+%MSG
+Begin processing the 114th record. Run 190595, Event 23910935, LumiSection 35 at 25-Apr-2012 14:30:16.680 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:30:24 CEST  Run: 190595 Event: 23910935
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1527.22 0
+
+%MSG
+Begin processing the 115th record. Run 190595, Event 23920791, LumiSection 35 at 25-Apr-2012 14:30:24.643 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:30:27 CEST  Run: 190595 Event: 23920791
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1527.22 0
+
+%MSG
+Begin processing the 116th record. Run 190595, Event 23918015, LumiSection 35 at 25-Apr-2012 14:30:27.814 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:30:34 CEST  Run: 190595 Event: 23918015
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1527.22 0
+
+%MSG
+Begin processing the 117th record. Run 190595, Event 23921487, LumiSection 35 at 25-Apr-2012 14:30:34.684 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:30:39 CEST  Run: 190595 Event: 23921487
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1527.22 0
+
+%MSG
+Begin processing the 118th record. Run 190595, Event 23922871, LumiSection 35 at 25-Apr-2012 14:30:39.481 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:30:43 CEST  Run: 190595 Event: 23922871
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1527.22 0
+
+%MSG
+Begin processing the 119th record. Run 190595, Event 23934535, LumiSection 35 at 25-Apr-2012 14:30:43.348 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:30:54 CEST  Run: 190595 Event: 23934535
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1538.05 0
+
+%MSG
+Begin processing the 120th record. Run 190595, Event 23936679, LumiSection 35 at 25-Apr-2012 14:30:54.200 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:30:59 CEST  Run: 190595 Event: 23936679
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1528.44 0
+
+%MSG
+Begin processing the 121st record. Run 190595, Event 23933047, LumiSection 35 at 25-Apr-2012 14:30:59.494 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:31:03 CEST  Run: 190595 Event: 23933047
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1528.44 0
+
+%MSG
+Begin processing the 122nd record. Run 190595, Event 23933951, LumiSection 35 at 25-Apr-2012 14:31:03.642 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:31:07 CEST  Run: 190595 Event: 23933951
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1528.45 0
+
+%MSG
+Begin processing the 123rd record. Run 190595, Event 23932143, LumiSection 35 at 25-Apr-2012 14:31:07.380 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:31:13 CEST  Run: 190595 Event: 23932143
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1528.62 0
+
+%MSG
+Begin processing the 124th record. Run 190595, Event 23937439, LumiSection 35 at 25-Apr-2012 14:31:13.056 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:31:17 CEST  Run: 190595 Event: 23937439
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1528.62 0
+
+%MSG
+Begin processing the 125th record. Run 190595, Event 23938423, LumiSection 35 at 25-Apr-2012 14:31:17.033 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:31:25 CEST  Run: 190595 Event: 23938423
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1528.67 0
+
+%MSG
+Begin processing the 126th record. Run 190595, Event 23938727, LumiSection 35 at 25-Apr-2012 14:31:25.088 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:31:33 CEST  Run: 190595 Event: 23938727
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1528.82 0
+
+%MSG
+Begin processing the 127th record. Run 190595, Event 23944839, LumiSection 35 at 25-Apr-2012 14:31:33.040 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:31:42 CEST  Run: 190595 Event: 23944839
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1531.56 0
+
+%MSG
+Begin processing the 128th record. Run 190595, Event 23939271, LumiSection 35 at 25-Apr-2012 14:31:42.526 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:31:49 CEST  Run: 190595 Event: 23939271
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1531.57 0
+
+%MSG
+Begin processing the 129th record. Run 190595, Event 23944887, LumiSection 35 at 25-Apr-2012 14:31:49.105 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:31:57 CEST  Run: 190595 Event: 23944887
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1531.57 0
+
+%MSG
+Begin processing the 130th record. Run 190595, Event 23946663, LumiSection 35 at 25-Apr-2012 14:31:57.591 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:32:00 CEST  Run: 190595 Event: 23946663
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1531.57 0
+
+%MSG
+Begin processing the 131st record. Run 190595, Event 23950063, LumiSection 35 at 25-Apr-2012 14:32:00.595 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:32:02 CEST  Run: 190595 Event: 23950063
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1528.31 0
+
+%MSG
+Begin processing the 132nd record. Run 190595, Event 23947599, LumiSection 35 at 25-Apr-2012 14:32:02.330 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:32:07 CEST  Run: 190595 Event: 23947599
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.53 0
+
+%MSG
+Begin processing the 133rd record. Run 190595, Event 23949191, LumiSection 35 at 25-Apr-2012 14:32:07.893 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:32:12 CEST  Run: 190595 Event: 23949191
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.53 0
+
+%MSG
+Begin processing the 134th record. Run 190595, Event 23959319, LumiSection 35 at 25-Apr-2012 14:32:12.499 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:32:14 CEST  Run: 190595 Event: 23959319
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.53 0
+
+%MSG
+Begin processing the 135th record. Run 190595, Event 23953999, LumiSection 35 at 25-Apr-2012 14:32:14.721 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:32:19 CEST  Run: 190595 Event: 23953999
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.53 0
+
+%MSG
+Begin processing the 136th record. Run 190595, Event 23968743, LumiSection 35 at 25-Apr-2012 14:32:19.350 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:32:23 CEST  Run: 190595 Event: 23968743
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.53 0
+
+%MSG
+Begin processing the 137th record. Run 190595, Event 23976951, LumiSection 35 at 25-Apr-2012 14:32:23.145 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:32:29 CEST  Run: 190595 Event: 23976951
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.53 0
+
+%MSG
+Begin processing the 138th record. Run 190595, Event 23974047, LumiSection 35 at 25-Apr-2012 14:32:29.205 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:32:35 CEST  Run: 190595 Event: 23974047
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.53 0
+
+%MSG
+Begin processing the 139th record. Run 190595, Event 23976935, LumiSection 35 at 25-Apr-2012 14:32:35.385 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:32:40 CEST  Run: 190595 Event: 23976935
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.53 0
+
+%MSG
+Begin processing the 140th record. Run 190595, Event 23982471, LumiSection 35 at 25-Apr-2012 14:32:40.812 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:32:47 CEST  Run: 190595 Event: 23982471
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.53 0
+
+%MSG
+Begin processing the 141st record. Run 190595, Event 23984663, LumiSection 35 at 25-Apr-2012 14:32:47.581 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:32:55 CEST  Run: 190595 Event: 23984663
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.53 0
+
+%MSG
+Begin processing the 142nd record. Run 190595, Event 23984599, LumiSection 35 at 25-Apr-2012 14:32:55.058 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:33:01 CEST  Run: 190595 Event: 23984599
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.53 0
+
+%MSG
+Begin processing the 143rd record. Run 190595, Event 23985919, LumiSection 35 at 25-Apr-2012 14:33:01.445 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:33:07 CEST  Run: 190595 Event: 23985919
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.53 0
+
+%MSG
+Begin processing the 144th record. Run 190595, Event 23987775, LumiSection 35 at 25-Apr-2012 14:33:07.638 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:33:13 CEST  Run: 190595 Event: 23987775
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.53 0
+
+%MSG
+Begin processing the 145th record. Run 190595, Event 23990663, LumiSection 35 at 25-Apr-2012 14:33:13.088 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:33:20 CEST  Run: 190595 Event: 23990663
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.53 0
+
+%MSG
+Begin processing the 146th record. Run 190595, Event 23991255, LumiSection 35 at 25-Apr-2012 14:33:20.145 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:33:23 CEST  Run: 190595 Event: 23991255
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.53 0
+
+%MSG
+Begin processing the 147th record. Run 190595, Event 23992079, LumiSection 35 at 25-Apr-2012 14:33:23.582 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:33:28 CEST  Run: 190595 Event: 23992079
+MemoryCheck: event : VSIZE 2026.79 0 RSS 1526.54 0
+
+%MSG
+Begin processing the 148th record. Run 190595, Event 23989255, LumiSection 35 at 25-Apr-2012 14:33:28.475 CEST
+%MSG-w TwoTrackMinimumDistanceLineLine:  GlobalMuonProducer:globalSETMuons  25-Apr-2012 14:33:40 CEST Run: 190595 Event: 23989255
+charge of input track is not zero or field non zero
+ positions:  (-67.6764,-1.8166,-1641.69)  ,  (0.0728689,0.0550145,0.256729) 
+ Bz fields: 0 , 3.8112
+ charges: 1 , 0
+%MSG
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:33:42 CEST  Run: 190595 Event: 23989255
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1560.59 0
+
+%MSG
+Begin processing the 149th record. Run 190595, Event 23995711, LumiSection 35 at 25-Apr-2012 14:33:42.842 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:33:47 CEST  Run: 190595 Event: 23995711
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1533.61 0
+
+%MSG
+Begin processing the 150th record. Run 190595, Event 24006599, LumiSection 35 at 25-Apr-2012 14:33:47.210 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:33:51 CEST  Run: 190595 Event: 24006599
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1532.15 0
+
+%MSG
+Begin processing the 151st record. Run 190595, Event 24008791, LumiSection 35 at 25-Apr-2012 14:33:51.815 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:33:56 CEST  Run: 190595 Event: 24008791
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1531.83 0
+
+%MSG
+Begin processing the 152nd record. Run 190595, Event 24016551, LumiSection 35 at 25-Apr-2012 14:33:56.519 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:33:57 CEST  Run: 190595 Event: 24016551
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1531.97 0
+
+%MSG
+Begin processing the 153rd record. Run 190595, Event 24010567, LumiSection 35 at 25-Apr-2012 14:33:57.928 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:34:05 CEST  Run: 190595 Event: 24010567
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1529.15 0
+
+%MSG
+Begin processing the 154th record. Run 190595, Event 24014599, LumiSection 35 at 25-Apr-2012 14:34:05.190 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:34:10 CEST  Run: 190595 Event: 24014599
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1529.15 0
+
+%MSG
+Begin processing the 155th record. Run 190595, Event 24017391, LumiSection 35 at 25-Apr-2012 14:34:10.647 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:34:12 CEST  Run: 190595 Event: 24017391
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1529.16 0
+
+%MSG
+Begin processing the 156th record. Run 190595, Event 24018407, LumiSection 35 at 25-Apr-2012 14:34:12.756 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:34:14 CEST  Run: 190595 Event: 24018407
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1529.16 0
+
+%MSG
+Begin processing the 157th record. Run 190595, Event 24025319, LumiSection 35 at 25-Apr-2012 14:34:14.361 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:34:17 CEST  Run: 190595 Event: 24025319
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1528.54 0
+
+%MSG
+Begin processing the 158th record. Run 190595, Event 24020255, LumiSection 35 at 25-Apr-2012 14:34:17.250 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:34:24 CEST  Run: 190595 Event: 24020255
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1528.56 0
+
+%MSG
+Begin processing the 159th record. Run 190595, Event 24024047, LumiSection 35 at 25-Apr-2012 14:34:24.160 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:34:31 CEST  Run: 190595 Event: 24024047
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1528.56 0
+
+%MSG
+Begin processing the 160th record. Run 190595, Event 24019175, LumiSection 35 at 25-Apr-2012 14:34:31.776 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:34:44 CEST  Run: 190595 Event: 24019175
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1552.08 0
+
+%MSG
+Begin processing the 161st record. Run 190595, Event 24027407, LumiSection 35 at 25-Apr-2012 14:34:44.263 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:34:49 CEST  Run: 190595 Event: 24027407
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1537.18 0
+
+%MSG
+Begin processing the 162nd record. Run 190595, Event 24032047, LumiSection 35 at 25-Apr-2012 14:34:49.238 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:34:52 CEST  Run: 190595 Event: 24032047
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1531.92 0
+
+%MSG
+Begin processing the 163rd record. Run 190595, Event 24026303, LumiSection 35 at 25-Apr-2012 14:34:52.237 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:34:55 CEST  Run: 190595 Event: 24026303
+MemoryCheck: event : VSIZE 2038.79 0 RSS 1531.95 0
+
+%MSG
+Begin processing the 164th record. Run 190595, Event 24030871, LumiSection 35 at 25-Apr-2012 14:34:55.366 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:35:09 CEST  Run: 190595 Event: 24030871
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1558.57 0
+
+%MSG
+Begin processing the 165th record. Run 190595, Event 24038455, LumiSection 35 at 25-Apr-2012 14:35:09.540 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:35:12 CEST  Run: 190595 Event: 24038455
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1538.58 0
+
+%MSG
+Begin processing the 166th record. Run 190595, Event 24042335, LumiSection 35 at 25-Apr-2012 14:35:13.017 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:35:15 CEST  Run: 190595 Event: 24042335
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1533.15 0
+
+%MSG
+Begin processing the 167th record. Run 190595, Event 24043887, LumiSection 35 at 25-Apr-2012 14:35:15.971 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:35:20 CEST  Run: 190595 Event: 24043887
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1533.16 0
+
+%MSG
+Begin processing the 168th record. Run 190595, Event 24047935, LumiSection 35 at 25-Apr-2012 14:35:20.082 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:35:23 CEST  Run: 190595 Event: 24047935
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1533.16 0
+
+%MSG
+Begin processing the 169th record. Run 190595, Event 24052967, LumiSection 35 at 25-Apr-2012 14:35:23.094 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:35:24 CEST  Run: 190595 Event: 24052967
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1533.16 0
+
+%MSG
+Begin processing the 170th record. Run 190595, Event 24064519, LumiSection 35 at 25-Apr-2012 14:35:24.660 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:35:26 CEST  Run: 190595 Event: 24064519
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1529.25 0
+
+%MSG
+Begin processing the 171st record. Run 190595, Event 24060679, LumiSection 35 at 25-Apr-2012 14:35:26.565 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:35:28 CEST  Run: 190595 Event: 24060679
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1529.25 0
+
+%MSG
+Begin processing the 172nd record. Run 190595, Event 24059455, LumiSection 35 at 25-Apr-2012 14:35:28.623 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:35:31 CEST  Run: 190595 Event: 24059455
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1529.25 0
+
+%MSG
+Begin processing the 173rd record. Run 190595, Event 24063095, LumiSection 35 at 25-Apr-2012 14:35:31.329 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:35:34 CEST  Run: 190595 Event: 24063095
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1529.25 0
+
+%MSG
+Begin processing the 174th record. Run 190595, Event 24060015, LumiSection 35 at 25-Apr-2012 14:35:34.866 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:35:39 CEST  Run: 190595 Event: 24060015
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1529.67 0
+
+%MSG
+Begin processing the 175th record. Run 190595, Event 24065223, LumiSection 35 at 25-Apr-2012 14:35:39.436 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:35:43 CEST  Run: 190595 Event: 24065223
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1529.67 0
+
+%MSG
+Begin processing the 176th record. Run 190595, Event 24068679, LumiSection 35 at 25-Apr-2012 14:35:43.976 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:35:46 CEST  Run: 190595 Event: 24068679
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1529.68 0
+
+%MSG
+Begin processing the 177th record. Run 190595, Event 24069143, LumiSection 35 at 25-Apr-2012 14:35:46.468 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:35:50 CEST  Run: 190595 Event: 24069143
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1529.68 0
+
+%MSG
+Begin processing the 178th record. Run 190595, Event 24068695, LumiSection 35 at 25-Apr-2012 14:35:50.257 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:36:05 CEST  Run: 190595 Event: 24068695
+MemoryCheck: event : VSIZE 2058.79 0 RSS 1564.62 0
+
+%MSG
+Begin processing the 179th record. Run 190595, Event 24078519, LumiSection 35 at 25-Apr-2012 14:36:05.656 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:36:10 CEST  Run: 190595 Event: 24078519
+MemoryCheck: event : VSIZE 2058.79 0 RSS 1538.93 0
+
+%MSG
+Begin processing the 180th record. Run 190595, Event 24073695, LumiSection 35 at 25-Apr-2012 14:36:10.133 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:36:13 CEST  Run: 190595 Event: 24073695
+MemoryCheck: event : VSIZE 2058.79 0 RSS 1533.3 0
+
+%MSG
+Begin processing the 181st record. Run 190595, Event 24075967, LumiSection 35 at 25-Apr-2012 14:36:13.490 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:36:16 CEST  Run: 190595 Event: 24075967
+MemoryCheck: event : VSIZE 2058.79 0 RSS 1533.56 0
+
+%MSG
+Begin processing the 182nd record. Run 190595, Event 24075223, LumiSection 35 at 25-Apr-2012 14:36:16.094 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:36:24 CEST  Run: 190595 Event: 24075223
+MemoryCheck: event : VSIZE 2058.79 0 RSS 1538.12 0
+
+%MSG
+Begin processing the 183rd record. Run 190595, Event 24087423, LumiSection 35 at 25-Apr-2012 14:36:24.977 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:36:29 CEST  Run: 190595 Event: 24087423
+MemoryCheck: event : VSIZE 2058.79 0 RSS 1537.83 0
+
+%MSG
+Begin processing the 184th record. Run 190595, Event 24086775, LumiSection 35 at 25-Apr-2012 14:36:29.237 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:36:35 CEST  Run: 190595 Event: 24086775
+MemoryCheck: event : VSIZE 2058.79 0 RSS 1533.55 0
+
+%MSG
+Begin processing the 185th record. Run 190595, Event 24085175, LumiSection 35 at 25-Apr-2012 14:36:35.553 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:36:42 CEST  Run: 190595 Event: 24085175
+MemoryCheck: event : VSIZE 2058.79 0 RSS 1533.55 0
+
+%MSG
+Begin processing the 186th record. Run 190595, Event 24092519, LumiSection 35 at 25-Apr-2012 14:36:42.332 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:36:44 CEST  Run: 190595 Event: 24092519
+MemoryCheck: event : VSIZE 2058.79 0 RSS 1533.56 0
+
+%MSG
+Begin processing the 187th record. Run 190595, Event 24089471, LumiSection 35 at 25-Apr-2012 14:36:44.567 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:36:50 CEST  Run: 190595 Event: 24089471
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.76 0
+
+%MSG
+Begin processing the 188th record. Run 190595, Event 24096487, LumiSection 35 at 25-Apr-2012 14:36:50.754 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:36:56 CEST  Run: 190595 Event: 24096487
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.76 0
+
+%MSG
+Begin processing the 189th record. Run 190595, Event 24105351, LumiSection 35 at 25-Apr-2012 14:36:56.367 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:36:57 CEST  Run: 190595 Event: 24105351
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.76 0
+
+%MSG
+Begin processing the 190th record. Run 190595, Event 24102855, LumiSection 35 at 25-Apr-2012 14:36:57.820 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:37:00 CEST  Run: 190595 Event: 24102855
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.76 0
+
+%MSG
+Begin processing the 191st record. Run 190595, Event 24104095, LumiSection 35 at 25-Apr-2012 14:37:00.977 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:37:06 CEST  Run: 190595 Event: 24104095
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.78 0
+
+%MSG
+Begin processing the 192nd record. Run 190595, Event 24109503, LumiSection 35 at 25-Apr-2012 14:37:06.297 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:37:11 CEST  Run: 190595 Event: 24109503
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.78 0
+
+%MSG
+Begin processing the 193rd record. Run 190595, Event 24111759, LumiSection 35 at 25-Apr-2012 14:37:11.734 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:37:15 CEST  Run: 190595 Event: 24111759
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.78 0
+
+%MSG
+Begin processing the 194th record. Run 190595, Event 24116615, LumiSection 35 at 25-Apr-2012 14:37:15.709 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:37:22 CEST  Run: 190595 Event: 24116615
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.78 0
+
+%MSG
+Begin processing the 195th record. Run 190595, Event 24125567, LumiSection 35 at 25-Apr-2012 14:37:22.161 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:37:27 CEST  Run: 190595 Event: 24125567
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.78 0
+
+%MSG
+Begin processing the 196th record. Run 190595, Event 24124807, LumiSection 35 at 25-Apr-2012 14:37:27.498 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:37:32 CEST  Run: 190595 Event: 24124807
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.78 0
+
+%MSG
+Begin processing the 197th record. Run 190595, Event 24124191, LumiSection 35 at 25-Apr-2012 14:37:32.708 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:37:37 CEST  Run: 190595 Event: 24124191
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.78 0
+
+%MSG
+Begin processing the 198th record. Run 190595, Event 24128063, LumiSection 35 at 25-Apr-2012 14:37:37.135 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:37:42 CEST  Run: 190595 Event: 24128063
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.78 0
+
+%MSG
+Begin processing the 199th record. Run 190595, Event 24135287, LumiSection 35 at 25-Apr-2012 14:37:42.547 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:37:45 CEST  Run: 190595 Event: 24135287
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.78 0
+
+%MSG
+Begin processing the 200th record. Run 190595, Event 24137031, LumiSection 35 at 25-Apr-2012 14:37:45.089 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:37:49 CEST  Run: 190595 Event: 24137031
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.78 0
+
+%MSG
+Begin processing the 201st record. Run 190595, Event 24135143, LumiSection 35 at 25-Apr-2012 14:37:49.198 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:37:52 CEST  Run: 190595 Event: 24135143
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.78 0
+
+%MSG
+Begin processing the 202nd record. Run 190595, Event 24135679, LumiSection 35 at 25-Apr-2012 14:37:52.128 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:37:58 CEST  Run: 190595 Event: 24135679
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.78 0
+
+%MSG
+Begin processing the 203rd record. Run 190595, Event 24138711, LumiSection 35 at 25-Apr-2012 14:37:58.933 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:38:01 CEST  Run: 190595 Event: 24138711
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.78 0
+
+%MSG
+Begin processing the 204th record. Run 190595, Event 24140759, LumiSection 35 at 25-Apr-2012 14:38:01.745 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:38:06 CEST  Run: 190595 Event: 24140759
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.79 0
+
+%MSG
+Begin processing the 205th record. Run 190595, Event 24139919, LumiSection 35 at 25-Apr-2012 14:38:06.941 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:38:09 CEST  Run: 190595 Event: 24139919
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.79 0
+
+%MSG
+Begin processing the 206th record. Run 190595, Event 24156503, LumiSection 35 at 25-Apr-2012 14:38:09.831 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:38:14 CEST  Run: 190595 Event: 24156503
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.79 0
+
+%MSG
+Begin processing the 207th record. Run 190595, Event 24154351, LumiSection 35 at 25-Apr-2012 14:38:14.497 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:38:17 CEST  Run: 190595 Event: 24154351
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.79 0
+
+%MSG
+Begin processing the 208th record. Run 190595, Event 24157471, LumiSection 35 at 25-Apr-2012 14:38:17.699 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:38:24 CEST  Run: 190595 Event: 24157471
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.79 0
+
+%MSG
+Begin processing the 209th record. Run 190595, Event 24155239, LumiSection 35 at 25-Apr-2012 14:38:24.971 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:38:26 CEST  Run: 190595 Event: 24155239
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.79 0
+
+%MSG
+Begin processing the 210th record. Run 190595, Event 24158663, LumiSection 35 at 25-Apr-2012 14:38:26.668 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:38:33 CEST  Run: 190595 Event: 24158663
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.79 0
+
+%MSG
+Begin processing the 211th record. Run 190595, Event 24155935, LumiSection 35 at 25-Apr-2012 14:38:33.234 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:38:40 CEST  Run: 190595 Event: 24155935
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.79 0
+
+%MSG
+Begin processing the 212th record. Run 190595, Event 24161043, LumiSection 35 at 25-Apr-2012 14:38:40.117 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:38:46 CEST  Run: 190595 Event: 24161043
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1530.79 0
+
+%MSG
+Begin processing the 213th record. Run 190595, Event 24164107, LumiSection 35 at 25-Apr-2012 14:38:46.041 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:38:54 CEST  Run: 190595 Event: 24164107
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1538.95 0
+
+%MSG
+Begin processing the 214th record. Run 190595, Event 24170499, LumiSection 35 at 25-Apr-2012 14:38:54.902 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:38:58 CEST  Run: 190595 Event: 24170499
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1539.32 0
+
+%MSG
+Begin processing the 215th record. Run 190595, Event 24173435, LumiSection 35 at 25-Apr-2012 14:38:58.674 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:39:02 CEST  Run: 190595 Event: 24173435
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1538.03 0
+
+%MSG
+Begin processing the 216th record. Run 190595, Event 24171579, LumiSection 35 at 25-Apr-2012 14:39:02.308 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:39:04 CEST  Run: 190595 Event: 24171579
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1538.04 0
+
+%MSG
+Begin processing the 217th record. Run 190595, Event 24176403, LumiSection 35 at 25-Apr-2012 14:39:04.645 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:39:08 CEST  Run: 190595 Event: 24176403
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1535.22 0
+
+%MSG
+Begin processing the 218th record. Run 190595, Event 24170123, LumiSection 35 at 25-Apr-2012 14:39:08.228 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:39:12 CEST  Run: 190595 Event: 24170123
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1535.26 0
+
+%MSG
+Begin processing the 219th record. Run 190595, Event 24172347, LumiSection 35 at 25-Apr-2012 14:39:12.847 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:39:15 CEST  Run: 190595 Event: 24172347
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1535.26 0
+
+%MSG
+Begin processing the 220th record. Run 190595, Event 24170899, LumiSection 35 at 25-Apr-2012 14:39:15.648 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:39:22 CEST  Run: 190595 Event: 24170899
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1535.27 0
+
+%MSG
+Begin processing the 221st record. Run 190595, Event 24175979, LumiSection 35 at 25-Apr-2012 14:39:22.150 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:39:24 CEST  Run: 190595 Event: 24175979
+MemoryCheck: event : VSIZE 2054.79 0 RSS 1535.27 0
+
+%MSG
+Begin processing the 222nd record. Run 190595, Event 24184315, LumiSection 35 at 25-Apr-2012 14:39:24.067 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:39:35 CEST  Run: 190595 Event: 24184315
+MemoryCheck: event : VSIZE 2062.79 0 RSS 1547.16 0
+
+%MSG
+Begin processing the 223rd record. Run 190595, Event 24191867, LumiSection 35 at 25-Apr-2012 14:39:35.391 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:39:43 CEST  Run: 190595 Event: 24191867
+MemoryCheck: event : VSIZE 2062.79 0 RSS 1543.39 0
+
+%MSG
+Begin processing the 224th record. Run 190595, Event 24192915, LumiSection 35 at 25-Apr-2012 14:39:43.362 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:39:52 CEST  Run: 190595 Event: 24192915
+MemoryCheck: event : VSIZE 2062.79 0 RSS 1545.78 0
+
+%MSG
+Begin processing the 225th record. Run 190595, Event 24194059, LumiSection 35 at 25-Apr-2012 14:39:52.059 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:40:01 CEST  Run: 190595 Event: 24194059
+MemoryCheck: event : VSIZE 2062.79 0 RSS 1541.83 0
+
+%MSG
+Begin processing the 226th record. Run 190595, Event 24205451, LumiSection 35 at 25-Apr-2012 14:40:01.190 CEST
+%MSG-w BasicTrajectoryState:  TrackProducer:convStepTracks  25-Apr-2012 14:40:02 CEST Run: 190595 Event: 24205451
+local error not pos-def
+[      -299483     34176.2     3472.39 -0.00199059    -15.1843
+       34176.2    -3900.09    -397.069 0.000226604     1.53426
+       3472.39    -397.069     295.027  5.2608e-06     29.0576
+   -0.00199059 0.000226604  5.2608e-06 1.13826e-05-2.36218e-06
+      -15.1843     1.53426     29.0576-2.36218e-06     1377.84 ]
+%MSG
+%MSG-w BasicTrajectoryState:  TrackProducer:convStepTracks  25-Apr-2012 14:40:02 CEST Run: 190595 Event: 24205451
+curv error not pos-def
+[      -299483    -2495.65     32663.6  0.00419551    -15.0729
+      -2495.65     290.361     272.878  0.00414067    -27.7477
+       32663.6     272.878    -3562.49-0.000510738     2.00351
+    0.00419551  0.00414067-0.000510738 4.11189e-05   -0.202629
+      -15.0729    -27.7477     2.00351   -0.202629      1357.7 ]
+%MSG
+%MSG-w BasicTrajectoryState:  TrackProducer:convStepTracks  25-Apr-2012 14:40:02 CEST Run: 190595 Event: 24205451
+curv error not pos-def
+[      -299483    -2495.97     34163.4     14527.9    -1107.07
+      -2495.97     290.355     285.413     121.375     99.4506
+       34163.4     285.413    -3897.16    -1657.27     126.949
+       14527.9     121.375    -1657.27    -704.751     53.5507
+      -1107.07     99.4506     126.949     53.5507     1389.12 ]
+%MSG
+%MSG-w BasicTrajectoryState:  TrackProducer:convStepTracks  25-Apr-2012 14:40:02 CEST Run: 190595 Event: 24205451
+local error not pos-def
+[      -299483       35242    -7065.74     14641.2    -2974.37
+         35242    -4143.65     865.522    -1721.74     361.429
+      -7065.74     865.522     165.101     357.049      42.274
+       14641.2    -1721.74     357.049    -701.676     285.921
+      -2974.37     361.429      42.274     285.921     1369.86 ]
+%MSG
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:40:03 CEST  Run: 190595 Event: 24205451
+MemoryCheck: event : VSIZE 2062.79 0 RSS 1541.98 0
+
+%MSG
+Begin processing the 227th record. Run 190595, Event 24207203, LumiSection 35 at 25-Apr-2012 14:40:03.920 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:40:12 CEST  Run: 190595 Event: 24207203
+MemoryCheck: event : VSIZE 2062.79 0 RSS 1537.95 0
+
+%MSG
+Begin processing the 228th record. Run 190595, Event 24208563, LumiSection 35 at 25-Apr-2012 14:40:12.574 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:40:20 CEST  Run: 190595 Event: 24208563
+MemoryCheck: event : VSIZE 2062.79 0 RSS 1537.96 0
+
+%MSG
+Begin processing the 229th record. Run 190595, Event 24210483, LumiSection 35 at 25-Apr-2012 14:40:20.144 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:40:22 CEST  Run: 190595 Event: 24210483
+MemoryCheck: event : VSIZE 2062.79 0 RSS 1537.96 0
+
+%MSG
+Begin processing the 230th record. Run 190595, Event 24219371, LumiSection 35 at 25-Apr-2012 14:40:22.505 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:40:27 CEST  Run: 190595 Event: 24219371
+MemoryCheck: event : VSIZE 2062.79 0 RSS 1537.96 0
+
+%MSG
+Begin processing the 231st record. Run 190595, Event 24223299, LumiSection 35 at 25-Apr-2012 14:40:27.942 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:40:30 CEST  Run: 190595 Event: 24223299
+MemoryCheck: event : VSIZE 2062.79 0 RSS 1537.96 0
+
+%MSG
+Begin processing the 232nd record. Run 190595, Event 24219963, LumiSection 35 at 25-Apr-2012 14:40:30.253 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:40:38 CEST  Run: 190595 Event: 24219963
+MemoryCheck: event : VSIZE 2062.79 0 RSS 1537.96 0
+
+%MSG
+Begin processing the 233rd record. Run 190595, Event 24219283, LumiSection 35 at 25-Apr-2012 14:40:38.782 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:40:42 CEST  Run: 190595 Event: 24219283
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.99 0
+
+%MSG
+Begin processing the 234th record. Run 190595, Event 24219299, LumiSection 35 at 25-Apr-2012 14:40:43.011 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:40:50 CEST  Run: 190595 Event: 24219299
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.99 0
+
+%MSG
+Begin processing the 235th record. Run 190595, Event 24218931, LumiSection 35 at 25-Apr-2012 14:40:50.602 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:40:56 CEST  Run: 190595 Event: 24218931
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.99 0
+
+%MSG
+Begin processing the 236th record. Run 190595, Event 24224867, LumiSection 35 at 25-Apr-2012 14:40:56.396 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:40:58 CEST  Run: 190595 Event: 24224867
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.99 0
+
+%MSG
+Begin processing the 237th record. Run 190595, Event 24228515, LumiSection 35 at 25-Apr-2012 14:40:58.315 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:41:01 CEST  Run: 190595 Event: 24228515
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 238th record. Run 190595, Event 24230419, LumiSection 35 at 25-Apr-2012 14:41:01.403 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:41:04 CEST  Run: 190595 Event: 24230419
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 239th record. Run 190595, Event 24228723, LumiSection 35 at 25-Apr-2012 14:41:04.525 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:41:10 CEST  Run: 190595 Event: 24228723
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 240th record. Run 190595, Event 24232803, LumiSection 35 at 25-Apr-2012 14:41:10.313 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:41:14 CEST  Run: 190595 Event: 24232803
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 241st record. Run 190595, Event 24226027, LumiSection 35 at 25-Apr-2012 14:41:14.118 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:41:16 CEST  Run: 190595 Event: 24226027
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 242nd record. Run 190595, Event 24231579, LumiSection 35 at 25-Apr-2012 14:41:16.626 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:41:21 CEST  Run: 190595 Event: 24231579
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 243rd record. Run 190595, Event 24248483, LumiSection 35 at 25-Apr-2012 14:41:21.437 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:41:23 CEST  Run: 190595 Event: 24248483
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 244th record. Run 190595, Event 24243027, LumiSection 35 at 25-Apr-2012 14:41:23.409 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:41:27 CEST  Run: 190595 Event: 24243027
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 245th record. Run 190595, Event 24248611, LumiSection 35 at 25-Apr-2012 14:41:27.677 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:41:33 CEST  Run: 190595 Event: 24248611
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 246th record. Run 190595, Event 24250963, LumiSection 35 at 25-Apr-2012 14:41:33.490 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:41:40 CEST  Run: 190595 Event: 24250963
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 247th record. Run 190595, Event 24256511, LumiSection 35 at 25-Apr-2012 14:41:40.606 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:41:43 CEST  Run: 190595 Event: 24256511
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 248th record. Run 190595, Event 24251091, LumiSection 35 at 25-Apr-2012 14:41:43.232 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:41:46 CEST  Run: 190595 Event: 24251091
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 249th record. Run 190595, Event 24251267, LumiSection 35 at 25-Apr-2012 14:41:46.288 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:41:50 CEST  Run: 190595 Event: 24251267
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 250th record. Run 190595, Event 24260607, LumiSection 35 at 25-Apr-2012 14:41:50.827 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:41:55 CEST  Run: 190595 Event: 24260607
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 251st record. Run 190595, Event 24272463, LumiSection 35 at 25-Apr-2012 14:41:55.173 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:41:58 CEST  Run: 190595 Event: 24272463
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 252nd record. Run 190595, Event 24265767, LumiSection 35 at 25-Apr-2012 14:41:58.881 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:42:03 CEST  Run: 190595 Event: 24265767
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 253rd record. Run 190595, Event 24267687, LumiSection 35 at 25-Apr-2012 14:42:04.021 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:42:08 CEST  Run: 190595 Event: 24267687
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 254th record. Run 190595, Event 24271071, LumiSection 35 at 25-Apr-2012 14:42:08.484 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:42:12 CEST  Run: 190595 Event: 24271071
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 255th record. Run 190595, Event 24271815, LumiSection 35 at 25-Apr-2012 14:42:12.292 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:42:17 CEST  Run: 190595 Event: 24271815
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 256th record. Run 190595, Event 24266167, LumiSection 35 at 25-Apr-2012 14:42:17.557 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:42:22 CEST  Run: 190595 Event: 24266167
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 257th record. Run 190595, Event 24276447, LumiSection 35 at 25-Apr-2012 14:42:22.135 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:42:26 CEST  Run: 190595 Event: 24276447
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 258th record. Run 190595, Event 24273559, LumiSection 35 at 25-Apr-2012 14:42:26.985 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:42:32 CEST  Run: 190595 Event: 24273559
+MemoryCheck: event : VSIZE 2066.79 0 RSS 1536.73 0
+
+%MSG
+Begin processing the 259th record. Run 190595, Event 24277703, LumiSection 35 at 25-Apr-2012 14:42:32.725 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:42:43 CEST  Run: 190595 Event: 24277703
+MemoryCheck: event : VSIZE 2070.79 0 RSS 1548.52 0
+
+%MSG
+Begin processing the 260th record. Run 190595, Event 24275135, LumiSection 35 at 25-Apr-2012 14:42:43.875 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:42:52 CEST  Run: 190595 Event: 24275135
+MemoryCheck: event : VSIZE 2070.79 0 RSS 1541.17 0
+
+%MSG
+Begin processing the 261st record. Run 190595, Event 24284279, LumiSection 35 at 25-Apr-2012 14:42:52.587 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:42:56 CEST  Run: 190595 Event: 24284279
+MemoryCheck: event : VSIZE 2070.79 0 RSS 1541.22 0
+
+%MSG
+Begin processing the 262nd record. Run 190595, Event 24287343, LumiSection 35 at 25-Apr-2012 14:42:56.283 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:42:58 CEST  Run: 190595 Event: 24287343
+MemoryCheck: event : VSIZE 2070.79 0 RSS 1539.16 0
+
+%MSG
+Begin processing the 263rd record. Run 190595, Event 24285815, LumiSection 35 at 25-Apr-2012 14:42:58.247 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:43:04 CEST  Run: 190595 Event: 24285815
+MemoryCheck: event : VSIZE 2070.79 0 RSS 1534.89 0
+
+%MSG
+Begin processing the 264th record. Run 190595, Event 24285119, LumiSection 35 at 25-Apr-2012 14:43:04.255 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:43:09 CEST  Run: 190595 Event: 24285119
+MemoryCheck: event : VSIZE 2070.79 0 RSS 1534.89 0
+
+%MSG
+Begin processing the 265th record. Run 190595, Event 24284895, LumiSection 35 at 25-Apr-2012 14:43:09.640 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:43:14 CEST  Run: 190595 Event: 24284895
+MemoryCheck: event : VSIZE 2070.79 0 RSS 1534.9 0
+
+%MSG
+Begin processing the 266th record. Run 190595, Event 24284911, LumiSection 35 at 25-Apr-2012 14:43:14.389 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:43:17 CEST  Run: 190595 Event: 24284911
+MemoryCheck: event : VSIZE 2070.79 0 RSS 1534.9 0
+
+%MSG
+Begin processing the 267th record. Run 190595, Event 24290863, LumiSection 35 at 25-Apr-2012 14:43:17.264 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:43:19 CEST  Run: 190595 Event: 24290863
+MemoryCheck: event : VSIZE 2070.79 0 RSS 1534.9 0
+
+%MSG
+Begin processing the 268th record. Run 190595, Event 24296511, LumiSection 35 at 25-Apr-2012 14:43:19.537 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:43:23 CEST  Run: 190595 Event: 24296511
+MemoryCheck: event : VSIZE 2070.79 0 RSS 1534.9 0
+
+%MSG
+Begin processing the 269th record. Run 190595, Event 24292911, LumiSection 35 at 25-Apr-2012 14:43:23.546 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:43:27 CEST  Run: 190595 Event: 24292911
+MemoryCheck: event : VSIZE 2070.79 0 RSS 1534.9 0
+
+%MSG
+Begin processing the 270th record. Run 190595, Event 24295879, LumiSection 35 at 25-Apr-2012 14:43:27.406 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:43:31 CEST  Run: 190595 Event: 24295879
+MemoryCheck: event : VSIZE 2070.79 0 RSS 1534.9 0
+
+%MSG
+Begin processing the 271st record. Run 190595, Event 24297735, LumiSection 35 at 25-Apr-2012 14:43:31.529 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:43:34 CEST  Run: 190595 Event: 24297735
+MemoryCheck: event : VSIZE 2070.79 0 RSS 1534.9 0
+
+%MSG
+Begin processing the 272nd record. Run 190595, Event 24298167, LumiSection 35 at 25-Apr-2012 14:43:34.269 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:43:39 CEST  Run: 190595 Event: 24298167
+MemoryCheck: event : VSIZE 2070.79 0 RSS 1534.9 0
+
+%MSG
+Begin processing the 273rd record. Run 190595, Event 24304215, LumiSection 35 at 25-Apr-2012 14:43:39.534 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:43:51 CEST  Run: 190595 Event: 24304215
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1551.94 0
+
+%MSG
+Begin processing the 274th record. Run 190595, Event 24306103, LumiSection 35 at 25-Apr-2012 14:43:51.324 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:43:55 CEST  Run: 190595 Event: 24306103
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1543.44 0
+
+%MSG
+Begin processing the 275th record. Run 190595, Event 24311383, LumiSection 35 at 25-Apr-2012 14:43:55.905 CEST
+%MSG-w CSCSectorReceiverMiniLUT:  CSCTFTrackProducer:valCsctfTrackDigis  25-Apr-2012 14:44:01 CEST Run: 190595 Event: 24311383
++++ Value of cscid, 2, is out of bounds, [1, 9] -- or -- Value of wire group, 127, exceeds max allowed, 119 +++
+
+%MSG
+%MSG-w CSCSectorReceiverMiniLUT:  CSCTFTrackProducer:valCsctfTrackDigis  25-Apr-2012 14:44:01 CEST Run: 190595 Event: 24311383
++++ Value of cscid, 2, is out of bounds, [1, 9] -- or -- Value of wire group, 127, exceeds max allowed, 119 +++
+
+%MSG
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:44:01 CEST  Run: 190595 Event: 24311383
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.03 0
+
+%MSG
+Begin processing the 276th record. Run 190595, Event 24312991, LumiSection 35 at 25-Apr-2012 14:44:01.691 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:44:05 CEST  Run: 190595 Event: 24312991
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.03 0
+
+%MSG
+Begin processing the 277th record. Run 190595, Event 24317071, LumiSection 35 at 25-Apr-2012 14:44:05.356 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:44:08 CEST  Run: 190595 Event: 24317071
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.03 0
+
+%MSG
+Begin processing the 278th record. Run 190595, Event 24320231, LumiSection 35 at 25-Apr-2012 14:44:08.730 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:44:15 CEST  Run: 190595 Event: 24320231
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.09 0
+
+%MSG
+Begin processing the 279th record. Run 190595, Event 24321183, LumiSection 35 at 25-Apr-2012 14:44:15.503 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:44:24 CEST  Run: 190595 Event: 24321183
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.63 0
+
+%MSG
+Begin processing the 280th record. Run 190595, Event 24328751, LumiSection 35 at 25-Apr-2012 14:44:24.107 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:44:27 CEST  Run: 190595 Event: 24328751
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.63 0
+
+%MSG
+Begin processing the 281st record. Run 190595, Event 24329151, LumiSection 35 at 25-Apr-2012 14:44:27.377 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:44:33 CEST  Run: 190595 Event: 24329151
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.63 0
+
+%MSG
+Begin processing the 282nd record. Run 190595, Event 24331039, LumiSection 35 at 25-Apr-2012 14:44:33.024 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:44:37 CEST  Run: 190595 Event: 24331039
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.63 0
+
+%MSG
+Begin processing the 283rd record. Run 190595, Event 23589642, LumiSection 35 at 25-Apr-2012 14:44:37.473 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:44:42 CEST  Run: 190595 Event: 23589642
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.63 0
+
+%MSG
+Begin processing the 284th record. Run 190595, Event 23593802, LumiSection 35 at 25-Apr-2012 14:44:42.254 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:44:50 CEST  Run: 190595 Event: 23593802
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.63 0
+
+%MSG
+Begin processing the 285th record. Run 190595, Event 23594594, LumiSection 35 at 25-Apr-2012 14:44:50.339 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:44:58 CEST  Run: 190595 Event: 23594594
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.82 0
+
+%MSG
+Begin processing the 286th record. Run 190595, Event 23596362, LumiSection 35 at 25-Apr-2012 14:44:58.354 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:45:03 CEST  Run: 190595 Event: 23596362
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.84 0
+
+%MSG
+Begin processing the 287th record. Run 190595, Event 23598442, LumiSection 35 at 25-Apr-2012 14:45:03.768 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:45:07 CEST  Run: 190595 Event: 23598442
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.84 0
+
+%MSG
+Begin processing the 288th record. Run 190595, Event 23604826, LumiSection 35 at 25-Apr-2012 14:45:07.519 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:45:13 CEST  Run: 190595 Event: 23604826
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.84 0
+
+%MSG
+Begin processing the 289th record. Run 190595, Event 23608314, LumiSection 35 at 25-Apr-2012 14:45:13.059 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:45:18 CEST  Run: 190595 Event: 23608314
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.84 0
+
+%MSG
+Begin processing the 290th record. Run 190595, Event 23606602, LumiSection 35 at 25-Apr-2012 14:45:18.193 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:45:22 CEST  Run: 190595 Event: 23606602
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.84 0
+
+%MSG
+Begin processing the 291st record. Run 190595, Event 23609562, LumiSection 35 at 25-Apr-2012 14:45:22.312 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:45:27 CEST  Run: 190595 Event: 23609562
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.84 0
+
+%MSG
+Begin processing the 292nd record. Run 190595, Event 23613786, LumiSection 35 at 25-Apr-2012 14:45:27.918 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:45:34 CEST  Run: 190595 Event: 23613786
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.84 0
+
+%MSG
+Begin processing the 293rd record. Run 190595, Event 23621610, LumiSection 35 at 25-Apr-2012 14:45:34.309 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:45:41 CEST  Run: 190595 Event: 23621610
+MemoryCheck: event : VSIZE 2078.79 0 RSS 1539.84 0
+
+%MSG
+Begin processing the 294th record. Run 190595, Event 23631362, LumiSection 35 at 25-Apr-2012 14:45:41.073 CEST
+NMax Jets exceded..
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:45:59 CEST  Run: 190595 Event: 23631362
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1579.28 0
+
+%MSG
+Begin processing the 295th record. Run 190595, Event 23636962, LumiSection 35 at 25-Apr-2012 14:45:59.696 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:46:06 CEST  Run: 190595 Event: 23636962
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1547.06 0
+
+%MSG
+Begin processing the 296th record. Run 190595, Event 23638754, LumiSection 35 at 25-Apr-2012 14:46:06.080 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:46:11 CEST  Run: 190595 Event: 23638754
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1544.3 0
+
+%MSG
+Begin processing the 297th record. Run 190595, Event 23644786, LumiSection 35 at 25-Apr-2012 14:46:11.670 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:46:18 CEST  Run: 190595 Event: 23644786
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1544.82 0
+
+%MSG
+Begin processing the 298th record. Run 190595, Event 23647458, LumiSection 35 at 25-Apr-2012 14:46:18.101 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:46:29 CEST  Run: 190595 Event: 23647458
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1555.7 0
+
+%MSG
+Begin processing the 299th record. Run 190595, Event 23646642, LumiSection 35 at 25-Apr-2012 14:46:29.450 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:46:36 CEST  Run: 190595 Event: 23646642
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1547.79 0
+
+%MSG
+Begin processing the 300th record. Run 190595, Event 23654834, LumiSection 35 at 25-Apr-2012 14:46:36.069 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:46:39 CEST  Run: 190595 Event: 23654834
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1547.28 0
+
+%MSG
+Begin processing the 301st record. Run 190595, Event 23654122, LumiSection 35 at 25-Apr-2012 14:46:39.806 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:46:43 CEST  Run: 190595 Event: 23654122
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1545.39 0
+
+%MSG
+Begin processing the 302nd record. Run 190595, Event 23654186, LumiSection 35 at 25-Apr-2012 14:46:43.052 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:46:50 CEST  Run: 190595 Event: 23654186
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1545.61 0
+
+%MSG
+Begin processing the 303rd record. Run 190595, Event 23660834, LumiSection 35 at 25-Apr-2012 14:46:50.210 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:46:54 CEST  Run: 190595 Event: 23660834
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1545.61 0
+
+%MSG
+Begin processing the 304th record. Run 190595, Event 23666930, LumiSection 35 at 25-Apr-2012 14:46:54.102 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:46:57 CEST  Run: 190595 Event: 23666930
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1545.62 0
+
+%MSG
+Begin processing the 305th record. Run 190595, Event 23665394, LumiSection 35 at 25-Apr-2012 14:46:57.881 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:47:03 CEST  Run: 190595 Event: 23665394
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1545.62 0
+
+%MSG
+Begin processing the 306th record. Run 190595, Event 23664170, LumiSection 35 at 25-Apr-2012 14:47:03.890 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:47:12 CEST  Run: 190595 Event: 23664170
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1545.64 0
+
+%MSG
+Begin processing the 307th record. Run 190595, Event 23671314, LumiSection 35 at 25-Apr-2012 14:47:12.391 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:47:17 CEST  Run: 190595 Event: 23671314
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1545.66 0
+
+%MSG
+Begin processing the 308th record. Run 190595, Event 23675618, LumiSection 35 at 25-Apr-2012 14:47:17.977 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:47:19 CEST  Run: 190595 Event: 23675618
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1545.66 0
+
+%MSG
+Begin processing the 309th record. Run 190595, Event 23673650, LumiSection 35 at 25-Apr-2012 14:47:19.919 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:47:27 CEST  Run: 190595 Event: 23673650
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1545.66 0
+
+%MSG
+Begin processing the 310th record. Run 190595, Event 23683482, LumiSection 35 at 25-Apr-2012 14:47:27.096 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:47:29 CEST  Run: 190595 Event: 23683482
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1545.66 0
+
+%MSG
+Begin processing the 311th record. Run 190595, Event 23681146, LumiSection 35 at 25-Apr-2012 14:47:29.035 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:47:33 CEST  Run: 190595 Event: 23681146
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1545.66 0
+
+%MSG
+Begin processing the 312th record. Run 190595, Event 23682282, LumiSection 35 at 25-Apr-2012 14:47:33.593 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:47:37 CEST  Run: 190595 Event: 23682282
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1545.66 0
+
+%MSG
+Begin processing the 313th record. Run 190595, Event 23682554, LumiSection 35 at 25-Apr-2012 14:47:37.472 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:47:41 CEST  Run: 190595 Event: 23682554
+MemoryCheck: event : VSIZE 2102.86 0 RSS 1545.66 0
+
+%MSG
+Begin processing the 314th record. Run 190595, Event 23678650, LumiSection 35 at 25-Apr-2012 14:47:41.521 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:47:55 CEST  Run: 190595 Event: 23678650
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1566.52 0
+
+%MSG
+Begin processing the 315th record. Run 190595, Event 23685066, LumiSection 35 at 25-Apr-2012 14:47:55.110 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:47:57 CEST  Run: 190595 Event: 23685066
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1551.34 0
+
+%MSG
+Begin processing the 316th record. Run 190595, Event 23685610, LumiSection 35 at 25-Apr-2012 14:47:57.873 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:48:00 CEST  Run: 190595 Event: 23685610
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1542.93 0
+
+%MSG
+Begin processing the 317th record. Run 190595, Event 23692850, LumiSection 35 at 25-Apr-2012 14:48:00.621 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:48:06 CEST  Run: 190595 Event: 23692850
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1543.07 0
+
+%MSG
+Begin processing the 318th record. Run 190595, Event 23695250, LumiSection 35 at 25-Apr-2012 14:48:06.856 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:48:08 CEST  Run: 190595 Event: 23695250
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1543.07 0
+
+%MSG
+Begin processing the 319th record. Run 190595, Event 23693962, LumiSection 35 at 25-Apr-2012 14:48:08.408 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:48:11 CEST  Run: 190595 Event: 23693962
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1543.07 0
+
+%MSG
+Begin processing the 320th record. Run 190595, Event 23697730, LumiSection 35 at 25-Apr-2012 14:48:11.164 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:48:15 CEST  Run: 190595 Event: 23697730
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1543.07 0
+
+%MSG
+Begin processing the 321st record. Run 190595, Event 23696426, LumiSection 35 at 25-Apr-2012 14:48:15.080 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:48:19 CEST  Run: 190595 Event: 23696426
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1543.07 0
+
+%MSG
+Begin processing the 322nd record. Run 190595, Event 23701394, LumiSection 35 at 25-Apr-2012 14:48:19.083 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:48:26 CEST  Run: 190595 Event: 23701394
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1543.95 0
+
+%MSG
+Begin processing the 323rd record. Run 190595, Event 23701026, LumiSection 35 at 25-Apr-2012 14:48:26.795 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:48:33 CEST  Run: 190595 Event: 23701026
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1543.98 0
+
+%MSG
+Begin processing the 324th record. Run 190595, Event 23703154, LumiSection 35 at 25-Apr-2012 14:48:33.816 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:48:37 CEST  Run: 190595 Event: 23703154
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1543.98 0
+
+%MSG
+Begin processing the 325th record. Run 190595, Event 23705906, LumiSection 35 at 25-Apr-2012 14:48:37.759 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:48:42 CEST  Run: 190595 Event: 23705906
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1543.98 0
+
+%MSG
+Begin processing the 326th record. Run 190595, Event 23706514, LumiSection 35 at 25-Apr-2012 14:48:42.548 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:48:49 CEST  Run: 190595 Event: 23706514
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1544.72 0
+
+%MSG
+Begin processing the 327th record. Run 190595, Event 23708722, LumiSection 35 at 25-Apr-2012 14:48:49.398 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:48:52 CEST  Run: 190595 Event: 23708722
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1544.72 0
+
+%MSG
+Begin processing the 328th record. Run 190595, Event 23713490, LumiSection 35 at 25-Apr-2012 14:48:52.638 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:48:57 CEST  Run: 190595 Event: 23713490
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1544.72 0
+
+%MSG
+Begin processing the 329th record. Run 190595, Event 23709986, LumiSection 35 at 25-Apr-2012 14:48:57.514 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:49:08 CEST  Run: 190595 Event: 23709986
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1553.05 0
+
+%MSG
+Begin processing the 330th record. Run 190595, Event 23716474, LumiSection 35 at 25-Apr-2012 14:49:08.140 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:49:12 CEST  Run: 190595 Event: 23716474
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1551.7 0
+
+%MSG
+Begin processing the 331st record. Run 190595, Event 23715762, LumiSection 35 at 25-Apr-2012 14:49:12.997 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:49:16 CEST  Run: 190595 Event: 23715762
+MemoryCheck: event : VSIZE 2118.86 0 RSS 1548.51 0
+
+%MSG
+Begin processing the 332nd record. Run 190595, Event 23713794, LumiSection 35 at 25-Apr-2012 14:49:16.948 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:49:31 CEST  Run: 190595 Event: 23713794
+MemoryCheck: event : VSIZE 2122.86 0 RSS 1568.24 0
+
+%MSG
+Begin processing the 333rd record. Run 190595, Event 23719474, LumiSection 35 at 25-Apr-2012 14:49:31.179 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:49:36 CEST  Run: 190595 Event: 23719474
+MemoryCheck: event : VSIZE 2122.86 0 RSS 1553.06 0
+
+%MSG
+Begin processing the 334th record. Run 190595, Event 23724762, LumiSection 35 at 25-Apr-2012 14:49:36.388 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:49:39 CEST  Run: 190595 Event: 23724762
+MemoryCheck: event : VSIZE 2122.86 0 RSS 1549.17 0
+
+%MSG
+Begin processing the 335th record. Run 190595, Event 23722202, LumiSection 35 at 25-Apr-2012 14:49:39.289 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:49:50 CEST  Run: 190595 Event: 23722202
+MemoryCheck: event : VSIZE 2126.86 0 RSS 1556.49 0
+
+%MSG
+Begin processing the 336th record. Run 190595, Event 23729522, LumiSection 35 at 25-Apr-2012 14:49:50.793 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:49:55 CEST  Run: 190595 Event: 23729522
+MemoryCheck: event : VSIZE 2126.86 0 RSS 1550.77 0
+
+%MSG
+Begin processing the 337th record. Run 190595, Event 23730490, LumiSection 35 at 25-Apr-2012 14:49:55.601 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:50:02 CEST  Run: 190595 Event: 23730490
+MemoryCheck: event : VSIZE 2126.86 0 RSS 1548.91 0
+
+%MSG
+Begin processing the 338th record. Run 190595, Event 23731266, LumiSection 35 at 25-Apr-2012 14:50:02.278 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:50:05 CEST  Run: 190595 Event: 23731266
+MemoryCheck: event : VSIZE 2126.86 0 RSS 1548.91 0
+
+%MSG
+Begin processing the 339th record. Run 190595, Event 23725730, LumiSection 35 at 25-Apr-2012 14:50:05.370 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:50:11 CEST  Run: 190595 Event: 23725730
+MemoryCheck: event : VSIZE 2126.86 0 RSS 1548.21 0
+
+%MSG
+Begin processing the 340th record. Run 190595, Event 23732538, LumiSection 35 at 25-Apr-2012 14:50:11.534 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:50:17 CEST  Run: 190595 Event: 23732538
+MemoryCheck: event : VSIZE 2126.86 0 RSS 1548.21 0
+
+%MSG
+Begin processing the 341st record. Run 190595, Event 23733090, LumiSection 35 at 25-Apr-2012 14:50:17.216 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:50:21 CEST  Run: 190595 Event: 23733090
+MemoryCheck: event : VSIZE 2126.86 0 RSS 1548.21 0
+
+%MSG
+Begin processing the 342nd record. Run 190595, Event 23740498, LumiSection 35 at 25-Apr-2012 14:50:21.651 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:50:27 CEST  Run: 190595 Event: 23740498
+MemoryCheck: event : VSIZE 2126.86 0 RSS 1548.21 0
+
+%MSG
+Begin processing the 343rd record. Run 190595, Event 23736082, LumiSection 35 at 25-Apr-2012 14:50:27.508 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:50:32 CEST  Run: 190595 Event: 23736082
+MemoryCheck: event : VSIZE 2126.86 0 RSS 1548.21 0
+
+%MSG
+Begin processing the 344th record. Run 190595, Event 23744026, LumiSection 35 at 25-Apr-2012 14:50:32.160 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:50:36 CEST  Run: 190595 Event: 23744026
+MemoryCheck: event : VSIZE 2126.86 0 RSS 1548.21 0
+
+%MSG
+Begin processing the 345th record. Run 190595, Event 23746570, LumiSection 35 at 25-Apr-2012 14:50:36.191 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:50:40 CEST  Run: 190595 Event: 23746570
+MemoryCheck: event : VSIZE 2126.86 0 RSS 1548.21 0
+
+%MSG
+Begin processing the 346th record. Run 190595, Event 23742698, LumiSection 35 at 25-Apr-2012 14:50:40.310 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:50:47 CEST  Run: 190595 Event: 23742698
+MemoryCheck: event : VSIZE 2126.86 0 RSS 1548.34 0
+
+%MSG
+Begin processing the 347th record. Run 190595, Event 23742746, LumiSection 35 at 25-Apr-2012 14:50:47.556 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:51:00 CEST  Run: 190595 Event: 23742746
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1563.57 0
+
+%MSG
+Begin processing the 348th record. Run 190595, Event 23747634, LumiSection 35 at 25-Apr-2012 14:51:00.804 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:51:13 CEST  Run: 190595 Event: 23747634
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1559.55 0
+
+%MSG
+Begin processing the 349th record. Run 190595, Event 23744994, LumiSection 35 at 25-Apr-2012 14:51:13.165 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:51:20 CEST  Run: 190595 Event: 23744994
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1551.32 0
+
+%MSG
+Begin processing the 350th record. Run 190595, Event 23756106, LumiSection 35 at 25-Apr-2012 14:51:20.169 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:51:24 CEST  Run: 190595 Event: 23756106
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1551.84 0
+
+%MSG
+Begin processing the 351st record. Run 190595, Event 23753994, LumiSection 35 at 25-Apr-2012 14:51:24.653 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:51:30 CEST  Run: 190595 Event: 23753994
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1549 0
+
+%MSG
+Begin processing the 352nd record. Run 190595, Event 23758442, LumiSection 35 at 25-Apr-2012 14:51:30.742 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:51:38 CEST  Run: 190595 Event: 23758442
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1549.14 0
+
+%MSG
+Begin processing the 353rd record. Run 190595, Event 23763698, LumiSection 35 at 25-Apr-2012 14:51:38.936 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:51:46 CEST  Run: 190595 Event: 23763698
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1549.14 0
+
+%MSG
+Begin processing the 354th record. Run 190595, Event 23760826, LumiSection 35 at 25-Apr-2012 14:51:46.255 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:51:51 CEST  Run: 190595 Event: 23760826
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1549.14 0
+
+%MSG
+Begin processing the 355th record. Run 190595, Event 23771106, LumiSection 35 at 25-Apr-2012 14:51:51.260 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:51:55 CEST  Run: 190595 Event: 23771106
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1549.14 0
+
+%MSG
+Begin processing the 356th record. Run 190595, Event 23771122, LumiSection 35 at 25-Apr-2012 14:51:55.715 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:52:00 CEST  Run: 190595 Event: 23771122
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1549.14 0
+
+%MSG
+Begin processing the 357th record. Run 190595, Event 23775666, LumiSection 35 at 25-Apr-2012 14:52:00.587 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:52:03 CEST  Run: 190595 Event: 23775666
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1549.14 0
+
+%MSG
+Begin processing the 358th record. Run 190595, Event 23774090, LumiSection 35 at 25-Apr-2012 14:52:03.902 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:52:08 CEST  Run: 190595 Event: 23774090
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1548.25 0
+
+%MSG
+Begin processing the 359th record. Run 190595, Event 23776522, LumiSection 35 at 25-Apr-2012 14:52:08.483 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:52:14 CEST  Run: 190595 Event: 23776522
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1548.25 0
+
+%MSG
+Begin processing the 360th record. Run 190595, Event 23780586, LumiSection 35 at 25-Apr-2012 14:52:14.350 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:52:21 CEST  Run: 190595 Event: 23780586
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1548.25 0
+
+%MSG
+Begin processing the 361st record. Run 190595, Event 23773906, LumiSection 35 at 25-Apr-2012 14:52:21.165 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:52:25 CEST  Run: 190595 Event: 23773906
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1548.25 0
+
+%MSG
+Begin processing the 362nd record. Run 190595, Event 23775946, LumiSection 35 at 25-Apr-2012 14:52:25.362 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:52:27 CEST  Run: 190595 Event: 23775946
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1548.25 0
+
+%MSG
+Begin processing the 363rd record. Run 190595, Event 23783234, LumiSection 35 at 25-Apr-2012 14:52:27.195 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:52:32 CEST  Run: 190595 Event: 23783234
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1547.25 0
+
+%MSG
+Begin processing the 364th record. Run 190595, Event 23782362, LumiSection 35 at 25-Apr-2012 14:52:32.527 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:52:38 CEST  Run: 190595 Event: 23782362
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1547.25 0
+
+%MSG
+Begin processing the 365th record. Run 190595, Event 23792498, LumiSection 35 at 25-Apr-2012 14:52:38.844 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:52:44 CEST  Run: 190595 Event: 23792498
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1547.25 0
+
+%MSG
+Begin processing the 366th record. Run 190595, Event 23803474, LumiSection 35 at 25-Apr-2012 14:52:44.719 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:52:51 CEST  Run: 190595 Event: 23803474
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1547.25 0
+
+%MSG
+Begin processing the 367th record. Run 190595, Event 23802506, LumiSection 35 at 25-Apr-2012 14:52:51.972 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:52:55 CEST  Run: 190595 Event: 23802506
+MemoryCheck: event : VSIZE 2130.86 0 RSS 1547.25 0
+
+%MSG
+Begin processing the 368th record. Run 190595, Event 23802650, LumiSection 35 at 25-Apr-2012 14:52:55.527 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:53:06 CEST  Run: 190595 Event: 23802650
+MemoryCheck: event : VSIZE 2134.86 0 RSS 1551.58 0
+
+%MSG
+Begin processing the 369th record. Run 190595, Event 23808266, LumiSection 35 at 25-Apr-2012 14:53:06.055 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:53:11 CEST  Run: 190595 Event: 23808266
+MemoryCheck: event : VSIZE 2134.86 0 RSS 1551.58 0
+
+%MSG
+Begin processing the 370th record. Run 190595, Event 23814642, LumiSection 35 at 25-Apr-2012 14:53:11.787 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:53:15 CEST  Run: 190595 Event: 23814642
+MemoryCheck: event : VSIZE 2134.86 0 RSS 1551.58 0
+
+%MSG
+Begin processing the 371st record. Run 190595, Event 23813890, LumiSection 35 at 25-Apr-2012 14:53:15.171 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:53:24 CEST  Run: 190595 Event: 23813890
+MemoryCheck: event : VSIZE 2134.86 0 RSS 1548.46 0
+
+%MSG
+Begin processing the 372nd record. Run 190595, Event 23817426, LumiSection 35 at 25-Apr-2012 14:53:24.471 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:53:27 CEST  Run: 190595 Event: 23817426
+MemoryCheck: event : VSIZE 2134.86 0 RSS 1548.46 0
+
+%MSG
+Begin processing the 373rd record. Run 190595, Event 23815874, LumiSection 35 at 25-Apr-2012 14:53:27.510 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:53:36 CEST  Run: 190595 Event: 23815874
+MemoryCheck: event : VSIZE 2134.86 0 RSS 1548.46 0
+
+%MSG
+Begin processing the 374th record. Run 190595, Event 23833682, LumiSection 35 at 25-Apr-2012 14:53:37.018 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:53:39 CEST  Run: 190595 Event: 23833682
+MemoryCheck: event : VSIZE 2134.86 0 RSS 1548.46 0
+
+%MSG
+Begin processing the 375th record. Run 190595, Event 23833490, LumiSection 35 at 25-Apr-2012 14:53:39.073 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:53:42 CEST  Run: 190595 Event: 23833490
+MemoryCheck: event : VSIZE 2134.86 0 RSS 1548.46 0
+
+%MSG
+Begin processing the 376th record. Run 190595, Event 23830394, LumiSection 35 at 25-Apr-2012 14:53:42.646 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:53:49 CEST  Run: 190595 Event: 23830394
+MemoryCheck: event : VSIZE 2134.86 0 RSS 1548.46 0
+
+%MSG
+Begin processing the 377th record. Run 190595, Event 23834186, LumiSection 35 at 25-Apr-2012 14:53:49.923 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:53:59 CEST  Run: 190595 Event: 23834186
+MemoryCheck: event : VSIZE 2134.86 0 RSS 1548.46 0
+
+%MSG
+Begin processing the 378th record. Run 190595, Event 23839842, LumiSection 35 at 25-Apr-2012 14:53:59.322 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:54:03 CEST  Run: 190595 Event: 23839842
+MemoryCheck: event : VSIZE 2134.86 0 RSS 1548.46 0
+
+%MSG
+Begin processing the 379th record. Run 190595, Event 23843506, LumiSection 35 at 25-Apr-2012 14:54:03.711 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:54:05 CEST  Run: 190595 Event: 23843506
+MemoryCheck: event : VSIZE 2134.86 0 RSS 1548.46 0
+
+%MSG
+Begin processing the 380th record. Run 190595, Event 23840234, LumiSection 35 at 25-Apr-2012 14:54:05.803 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:54:13 CEST  Run: 190595 Event: 23840234
+MemoryCheck: event : VSIZE 2134.86 0 RSS 1548.46 0
+
+%MSG
+Begin processing the 381st record. Run 190595, Event 23843250, LumiSection 35 at 25-Apr-2012 14:54:13.321 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:54:17 CEST  Run: 190595 Event: 23843250
+MemoryCheck: event : VSIZE 2134.86 0 RSS 1548.46 0
+
+%MSG
+Begin processing the 382nd record. Run 190595, Event 23840154, LumiSection 35 at 25-Apr-2012 14:54:17.251 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:54:22 CEST  Run: 190595 Event: 23840154
+MemoryCheck: event : VSIZE 2134.86 0 RSS 1548.46 0
+
+%MSG
+Begin processing the 383rd record. Run 190595, Event 23841762, LumiSection 35 at 25-Apr-2012 14:54:22.527 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:54:32 CEST  Run: 190595 Event: 23841762
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1554.94 0
+
+%MSG
+Begin processing the 384th record. Run 190595, Event 23846810, LumiSection 35 at 25-Apr-2012 14:54:32.858 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:54:38 CEST  Run: 190595 Event: 23846810
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1554.95 0
+
+%MSG
+Begin processing the 385th record. Run 190595, Event 23851506, LumiSection 35 at 25-Apr-2012 14:54:38.667 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:54:43 CEST  Run: 190595 Event: 23851506
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1552.68 0
+
+%MSG
+Begin processing the 386th record. Run 190595, Event 23860842, LumiSection 35 at 25-Apr-2012 14:54:43.833 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:54:49 CEST  Run: 190595 Event: 23860842
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1550.54 0
+
+%MSG
+Begin processing the 387th record. Run 190595, Event 23861218, LumiSection 35 at 25-Apr-2012 14:54:49.111 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:54:51 CEST  Run: 190595 Event: 23861218
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1550.48 0
+
+%MSG
+Begin processing the 388th record. Run 190595, Event 23866586, LumiSection 35 at 25-Apr-2012 14:54:51.504 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:54:59 CEST  Run: 190595 Event: 23866586
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1549.26 0
+
+%MSG
+Begin processing the 389th record. Run 190595, Event 23869426, LumiSection 35 at 25-Apr-2012 14:54:59.896 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:55:03 CEST  Run: 190595 Event: 23869426
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1549.26 0
+
+%MSG
+Begin processing the 390th record. Run 190595, Event 23872162, LumiSection 35 at 25-Apr-2012 14:55:03.764 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:55:07 CEST  Run: 190595 Event: 23872162
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1549.26 0
+
+%MSG
+Begin processing the 391st record. Run 190595, Event 23869554, LumiSection 35 at 25-Apr-2012 14:55:07.420 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:55:11 CEST  Run: 190595 Event: 23869554
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1549.55 0
+
+%MSG
+Begin processing the 392nd record. Run 190595, Event 23870186, LumiSection 35 at 25-Apr-2012 14:55:11.482 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:55:15 CEST  Run: 190595 Event: 23870186
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1549.55 0
+
+%MSG
+Begin processing the 393rd record. Run 190595, Event 23872498, LumiSection 35 at 25-Apr-2012 14:55:15.673 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:55:18 CEST  Run: 190595 Event: 23872498
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1549.55 0
+
+%MSG
+Begin processing the 394th record. Run 190595, Event 23872882, LumiSection 35 at 25-Apr-2012 14:55:18.784 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:55:26 CEST  Run: 190595 Event: 23872882
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1549.55 0
+
+%MSG
+Begin processing the 395th record. Run 190595, Event 23882674, LumiSection 35 at 25-Apr-2012 14:55:26.864 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:55:32 CEST  Run: 190595 Event: 23882674
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1549.55 0
+
+%MSG
+Begin processing the 396th record. Run 190595, Event 23882866, LumiSection 35 at 25-Apr-2012 14:55:32.880 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:55:37 CEST  Run: 190595 Event: 23882866
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1549.55 0
+
+%MSG
+Begin processing the 397th record. Run 190595, Event 23883930, LumiSection 35 at 25-Apr-2012 14:55:37.137 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:55:40 CEST  Run: 190595 Event: 23883930
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1549.55 0
+
+%MSG
+Begin processing the 398th record. Run 190595, Event 23883466, LumiSection 35 at 25-Apr-2012 14:55:40.699 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:55:42 CEST  Run: 190595 Event: 23883466
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1549.55 0
+
+%MSG
+Begin processing the 399th record. Run 190595, Event 23890818, LumiSection 35 at 25-Apr-2012 14:55:42.346 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:55:43 CEST  Run: 190595 Event: 23890818
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1549.55 0
+
+%MSG
+Begin processing the 400th record. Run 190595, Event 23892994, LumiSection 35 at 25-Apr-2012 14:55:43.251 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:55:44 CEST  Run: 190595 Event: 23892994
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1548.82 0
+
+%MSG
+Begin processing the 401st record. Run 190595, Event 23889466, LumiSection 35 at 25-Apr-2012 14:55:44.361 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:55:49 CEST  Run: 190595 Event: 23889466
+MemoryCheck: event : VSIZE 2138.86 0 RSS 1548.82 0
+
+%MSG
+Begin processing the 402nd record. Run 190595, Event 23895706, LumiSection 35 at 25-Apr-2012 14:55:49.381 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:56:01 CEST  Run: 190595 Event: 23895706
+MemoryCheck: event : VSIZE 2142.86 0 RSS 1559.16 0
+
+%MSG
+Begin processing the 403rd record. Run 190595, Event 23894466, LumiSection 35 at 25-Apr-2012 14:56:01.886 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:56:08 CEST  Run: 190595 Event: 23894466
+MemoryCheck: event : VSIZE 2142.86 0 RSS 1552.02 0
+
+%MSG
+Begin processing the 404th record. Run 190595, Event 23899514, LumiSection 35 at 25-Apr-2012 14:56:08.479 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:56:11 CEST  Run: 190595 Event: 23899514
+MemoryCheck: event : VSIZE 2142.86 0 RSS 1552.06 0
+
+%MSG
+Begin processing the 405th record. Run 190595, Event 23899274, LumiSection 35 at 25-Apr-2012 14:56:11.494 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:56:19 CEST  Run: 190595 Event: 23899274
+MemoryCheck: event : VSIZE 2142.86 0 RSS 1549.91 0
+
+%MSG
+Begin processing the 406th record. Run 190595, Event 23908706, LumiSection 35 at 25-Apr-2012 14:56:19.391 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:56:21 CEST  Run: 190595 Event: 23908706
+MemoryCheck: event : VSIZE 2142.86 0 RSS 1549.91 0
+
+%MSG
+Begin processing the 407th record. Run 190595, Event 23906450, LumiSection 35 at 25-Apr-2012 14:56:21.237 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:56:25 CEST  Run: 190595 Event: 23906450
+MemoryCheck: event : VSIZE 2142.86 0 RSS 1547.28 0
+
+%MSG
+Begin processing the 408th record. Run 190595, Event 23905898, LumiSection 35 at 25-Apr-2012 14:56:25.476 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:56:28 CEST  Run: 190595 Event: 23905898
+MemoryCheck: event : VSIZE 2142.86 0 RSS 1547.28 0
+
+%MSG
+Begin processing the 409th record. Run 190595, Event 23911706, LumiSection 35 at 25-Apr-2012 14:56:28.562 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:56:34 CEST  Run: 190595 Event: 23911706
+MemoryCheck: event : VSIZE 2142.86 0 RSS 1547.73 0
+
+%MSG
+Begin processing the 410th record. Run 190595, Event 23909514, LumiSection 35 at 25-Apr-2012 14:56:34.392 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:56:37 CEST  Run: 190595 Event: 23909514
+MemoryCheck: event : VSIZE 2142.86 0 RSS 1547.73 0
+
+%MSG
+Begin processing the 411th record. Run 190595, Event 23914178, LumiSection 35 at 25-Apr-2012 14:56:37.300 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:56:42 CEST  Run: 190595 Event: 23914178
+MemoryCheck: event : VSIZE 2142.86 0 RSS 1547.73 0
+
+%MSG
+Begin processing the 412th record. Run 190595, Event 23913370, LumiSection 35 at 25-Apr-2012 14:56:42.038 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:56:46 CEST  Run: 190595 Event: 23913370
+MemoryCheck: event : VSIZE 2142.86 0 RSS 1547.73 0
+
+%MSG
+Begin processing the 413th record. Run 190595, Event 23913290, LumiSection 35 at 25-Apr-2012 14:56:46.487 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:56:56 CEST  Run: 190595 Event: 23913290
+MemoryCheck: event : VSIZE 2142.86 0 RSS 1551.03 0
+
+%MSG
+Begin processing the 414th record. Run 190595, Event 23914354, LumiSection 35 at 25-Apr-2012 14:56:56.689 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:57:13 CEST  Run: 190595 Event: 23914354
+MemoryCheck: event : VSIZE 2158.86 0 RSS 1579.31 0
+
+%MSG
+Begin processing the 415th record. Run 190595, Event 23924402, LumiSection 35 at 25-Apr-2012 14:57:13.727 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:57:17 CEST  Run: 190595 Event: 23924402
+MemoryCheck: event : VSIZE 2158.86 0 RSS 1553.73 0
+
+%MSG
+Begin processing the 416th record. Run 190595, Event 23929370, LumiSection 35 at 25-Apr-2012 14:57:17.693 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:57:23 CEST  Run: 190595 Event: 23929370
+MemoryCheck: event : VSIZE 2158.86 0 RSS 1550.51 0
+
+%MSG
+Begin processing the 417th record. Run 190595, Event 23928546, LumiSection 35 at 25-Apr-2012 14:57:23.594 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:57:32 CEST  Run: 190595 Event: 23928546
+MemoryCheck: event : VSIZE 2158.86 0 RSS 1550.54 0
+
+%MSG
+Begin processing the 418th record. Run 190595, Event 23928210, LumiSection 35 at 25-Apr-2012 14:57:32.327 CEST
+NMax Jets exceded..
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:57:47 CEST  Run: 190595 Event: 23928210
+MemoryCheck: event : VSIZE 2166.86 0 RSS 1576.39 0
+
+%MSG
+Begin processing the 419th record. Run 190595, Event 23939626, LumiSection 35 at 25-Apr-2012 14:57:47.761 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:57:52 CEST  Run: 190595 Event: 23939626
+MemoryCheck: event : VSIZE 2166.86 0 RSS 1556.02 0
+
+%MSG
+Begin processing the 420th record. Run 190595, Event 23937058, LumiSection 35 at 25-Apr-2012 14:57:52.876 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:58:00 CEST  Run: 190595 Event: 23937058
+MemoryCheck: event : VSIZE 2166.86 0 RSS 1552.46 0
+
+%MSG
+Begin processing the 421st record. Run 190595, Event 23947290, LumiSection 35 at 25-Apr-2012 14:58:00.416 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:58:05 CEST  Run: 190595 Event: 23947290
+MemoryCheck: event : VSIZE 2166.86 0 RSS 1552.48 0
+
+%MSG
+Begin processing the 422nd record. Run 190595, Event 23942978, LumiSection 35 at 25-Apr-2012 14:58:05.931 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:58:12 CEST  Run: 190595 Event: 23942978
+MemoryCheck: event : VSIZE 2166.86 0 RSS 1553.84 0
+
+%MSG
+Begin processing the 423rd record. Run 190595, Event 23946962, LumiSection 35 at 25-Apr-2012 14:58:12.852 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:58:25 CEST  Run: 190595 Event: 23946962
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1562.38 0
+
+%MSG
+Begin processing the 424th record. Run 190595, Event 23949994, LumiSection 35 at 25-Apr-2012 14:58:25.194 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:58:27 CEST  Run: 190595 Event: 23949994
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1556.09 0
+
+%MSG
+Begin processing the 425th record. Run 190595, Event 23950866, LumiSection 35 at 25-Apr-2012 14:58:27.153 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:58:30 CEST  Run: 190595 Event: 23950866
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1552.66 0
+
+%MSG
+Begin processing the 426th record. Run 190595, Event 23951906, LumiSection 35 at 25-Apr-2012 14:58:30.646 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:58:35 CEST  Run: 190595 Event: 23951906
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1552.67 0
+
+%MSG
+Begin processing the 427th record. Run 190595, Event 23951090, LumiSection 35 at 25-Apr-2012 14:58:35.316 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:58:36 CEST  Run: 190595 Event: 23951090
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1552.67 0
+
+%MSG
+Begin processing the 428th record. Run 190595, Event 23954114, LumiSection 35 at 25-Apr-2012 14:58:36.768 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:58:37 CEST  Run: 190595 Event: 23954114
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1551.64 0
+
+%MSG
+Begin processing the 429th record. Run 190595, Event 23951986, LumiSection 35 at 25-Apr-2012 14:58:37.731 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:58:39 CEST  Run: 190595 Event: 23951986
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1549.24 0
+
+%MSG
+Begin processing the 430th record. Run 190595, Event 23954450, LumiSection 35 at 25-Apr-2012 14:58:39.632 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:58:45 CEST  Run: 190595 Event: 23954450
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1549.24 0
+
+%MSG
+Begin processing the 431st record. Run 190595, Event 23955298, LumiSection 35 at 25-Apr-2012 14:58:45.148 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:58:48 CEST  Run: 190595 Event: 23955298
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1549.31 0
+
+%MSG
+Begin processing the 432nd record. Run 190595, Event 23952898, LumiSection 35 at 25-Apr-2012 14:58:48.654 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:58:59 CEST  Run: 190595 Event: 23952898
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1555.9 0
+
+%MSG
+Begin processing the 433rd record. Run 190595, Event 23957618, LumiSection 35 at 25-Apr-2012 14:58:59.283 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:59:01 CEST  Run: 190595 Event: 23957618
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1555.9 0
+
+%MSG
+Begin processing the 434th record. Run 190595, Event 23958770, LumiSection 35 at 25-Apr-2012 14:59:01.955 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:59:05 CEST  Run: 190595 Event: 23958770
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1551.88 0
+
+%MSG
+Begin processing the 435th record. Run 190595, Event 23964002, LumiSection 35 at 25-Apr-2012 14:59:05.562 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:59:11 CEST  Run: 190595 Event: 23964002
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1551.88 0
+
+%MSG
+Begin processing the 436th record. Run 190595, Event 23959074, LumiSection 35 at 25-Apr-2012 14:59:11.543 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:59:18 CEST  Run: 190595 Event: 23959074
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1551.98 0
+
+%MSG
+Begin processing the 437th record. Run 190595, Event 23968914, LumiSection 35 at 25-Apr-2012 14:59:18.990 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:59:25 CEST  Run: 190595 Event: 23968914
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1551.98 0
+
+%MSG
+Begin processing the 438th record. Run 190595, Event 23968994, LumiSection 35 at 25-Apr-2012 14:59:25.262 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:59:29 CEST  Run: 190595 Event: 23968994
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1551.98 0
+
+%MSG
+Begin processing the 439th record. Run 190595, Event 23970770, LumiSection 35 at 25-Apr-2012 14:59:29.866 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:59:31 CEST  Run: 190595 Event: 23970770
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1551.98 0
+
+%MSG
+Begin processing the 440th record. Run 190595, Event 23976866, LumiSection 35 at 25-Apr-2012 14:59:31.630 CEST
+%MSG-w CSCSectorReceiverMiniLUT:  CSCTFTrackProducer:valCsctfTrackDigis  25-Apr-2012 14:59:38 CEST Run: 190595 Event: 23976866
++++ Value of cscid, 2, is out of bounds, [1, 9] -- or -- Value of wire group, 127, exceeds max allowed, 119 +++
+
+%MSG
+%MSG-w CSCSectorReceiverMiniLUT:  CSCTFTrackProducer:valCsctfTrackDigis  25-Apr-2012 14:59:38 CEST Run: 190595 Event: 23976866
++++ Value of cscid, 2, is out of bounds, [1, 9] -- or -- Value of wire group, 127, exceeds max allowed, 119 +++
+
+%MSG
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:59:39 CEST  Run: 190595 Event: 23976866
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1551.98 0
+
+%MSG
+Begin processing the 441st record. Run 190595, Event 23984594, LumiSection 35 at 25-Apr-2012 14:59:39.331 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:59:46 CEST  Run: 190595 Event: 23984594
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1551.98 0
+
+%MSG
+Begin processing the 442nd record. Run 190595, Event 23986834, LumiSection 35 at 25-Apr-2012 14:59:46.703 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:59:52 CEST  Run: 190595 Event: 23986834
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1551.98 0
+
+%MSG
+Begin processing the 443rd record. Run 190595, Event 23995186, LumiSection 35 at 25-Apr-2012 14:59:52.106 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:59:53 CEST  Run: 190595 Event: 23995186
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1551.98 0
+
+%MSG
+Begin processing the 444th record. Run 190595, Event 23990866, LumiSection 35 at 25-Apr-2012 14:59:53.448 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 14:59:55 CEST  Run: 190595 Event: 23990866
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1551.98 0
+
+%MSG
+Begin processing the 445th record. Run 190595, Event 23992242, LumiSection 35 at 25-Apr-2012 14:59:55.280 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:00:02 CEST  Run: 190595 Event: 23992242
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1551.98 0
+
+%MSG
+Begin processing the 446th record. Run 190595, Event 23996594, LumiSection 35 at 25-Apr-2012 15:00:02.332 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:00:07 CEST  Run: 190595 Event: 23996594
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1551.98 0
+
+%MSG
+Begin processing the 447th record. Run 190595, Event 23996290, LumiSection 35 at 25-Apr-2012 15:00:07.343 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:00:18 CEST  Run: 190595 Event: 23996290
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1557.63 0
+
+%MSG
+Begin processing the 448th record. Run 190595, Event 24000530, LumiSection 35 at 25-Apr-2012 15:00:18.650 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:00:22 CEST  Run: 190595 Event: 24000530
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1557.63 0
+
+%MSG
+Begin processing the 449th record. Run 190595, Event 24005570, LumiSection 35 at 25-Apr-2012 15:00:22.169 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:00:33 CEST  Run: 190595 Event: 24005570
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1555.91 0
+
+%MSG
+Begin processing the 450th record. Run 190595, Event 24005858, LumiSection 35 at 25-Apr-2012 15:00:33.562 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:00:40 CEST  Run: 190595 Event: 24005858
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1556.01 0
+
+%MSG
+Begin processing the 451st record. Run 190595, Event 24006754, LumiSection 35 at 25-Apr-2012 15:00:40.936 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:00:49 CEST  Run: 190595 Event: 24006754
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1556.35 0
+
+%MSG
+Begin processing the 452nd record. Run 190595, Event 24007570, LumiSection 35 at 25-Apr-2012 15:00:49.134 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:00:52 CEST  Run: 190595 Event: 24007570
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1556.35 0
+
+%MSG
+Begin processing the 453rd record. Run 190595, Event 24009458, LumiSection 35 at 25-Apr-2012 15:00:52.151 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:00:54 CEST  Run: 190595 Event: 24009458
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 454th record. Run 190595, Event 24009106, LumiSection 35 at 25-Apr-2012 15:00:54.747 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:01:02 CEST  Run: 190595 Event: 24009106
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 455th record. Run 190595, Event 24012962, LumiSection 35 at 25-Apr-2012 15:01:02.596 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:01:11 CEST  Run: 190595 Event: 24012962
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 456th record. Run 190595, Event 24015394, LumiSection 35 at 25-Apr-2012 15:01:11.107 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:01:15 CEST  Run: 190595 Event: 24015394
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 457th record. Run 190595, Event 24018130, LumiSection 35 at 25-Apr-2012 15:01:15.876 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:01:23 CEST  Run: 190595 Event: 24018130
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 458th record. Run 190595, Event 24027874, LumiSection 35 at 25-Apr-2012 15:01:23.214 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:01:29 CEST  Run: 190595 Event: 24027874
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 459th record. Run 190595, Event 24037426, LumiSection 35 at 25-Apr-2012 15:01:29.883 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:01:38 CEST  Run: 190595 Event: 24037426
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 460th record. Run 190595, Event 24035570, LumiSection 35 at 25-Apr-2012 15:01:38.487 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:01:46 CEST  Run: 190595 Event: 24035570
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 461st record. Run 190595, Event 24030274, LumiSection 35 at 25-Apr-2012 15:01:46.374 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:01:49 CEST  Run: 190595 Event: 24030274
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 462nd record. Run 190595, Event 24037282, LumiSection 35 at 25-Apr-2012 15:01:49.859 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:01:57 CEST  Run: 190595 Event: 24037282
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 463rd record. Run 190595, Event 24040994, LumiSection 35 at 25-Apr-2012 15:01:57.757 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:02:01 CEST  Run: 190595 Event: 24040994
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 464th record. Run 190595, Event 24038402, LumiSection 35 at 25-Apr-2012 15:02:01.238 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:02:09 CEST  Run: 190595 Event: 24038402
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 465th record. Run 190595, Event 24038610, LumiSection 35 at 25-Apr-2012 15:02:09.420 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:02:12 CEST  Run: 190595 Event: 24038610
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 466th record. Run 190595, Event 24041914, LumiSection 35 at 25-Apr-2012 15:02:12.512 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:02:19 CEST  Run: 190595 Event: 24041914
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 467th record. Run 190595, Event 24051298, LumiSection 35 at 25-Apr-2012 15:02:19.753 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:02:23 CEST  Run: 190595 Event: 24051298
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 468th record. Run 190595, Event 24047682, LumiSection 35 at 25-Apr-2012 15:02:23.683 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:02:28 CEST  Run: 190595 Event: 24047682
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 469th record. Run 190595, Event 24053298, LumiSection 35 at 25-Apr-2012 15:02:28.820 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:02:32 CEST  Run: 190595 Event: 24053298
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 470th record. Run 190595, Event 24046818, LumiSection 35 at 25-Apr-2012 15:02:32.234 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:02:34 CEST  Run: 190595 Event: 24046818
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 471st record. Run 190595, Event 24049650, LumiSection 35 at 25-Apr-2012 15:02:35.000 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:02:36 CEST  Run: 190595 Event: 24049650
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 472nd record. Run 190595, Event 24053186, LumiSection 35 at 25-Apr-2012 15:02:36.299 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:02:40 CEST  Run: 190595 Event: 24053186
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 473rd record. Run 190595, Event 24054362, LumiSection 35 at 25-Apr-2012 15:02:40.114 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:02:43 CEST  Run: 190595 Event: 24054362
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 474th record. Run 190595, Event 24054666, LumiSection 35 at 25-Apr-2012 15:02:43.554 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:02:46 CEST  Run: 190595 Event: 24054666
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 475th record. Run 190595, Event 24056442, LumiSection 35 at 25-Apr-2012 15:02:46.585 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:02:48 CEST  Run: 190595 Event: 24056442
+MemoryCheck: event : VSIZE 2170.86 0 RSS 1553.52 0
+
+%MSG
+Begin processing the 476th record. Run 190595, Event 24054698, LumiSection 35 at 25-Apr-2012 15:02:48.626 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:03:06 CEST  Run: 190595 Event: 24054698
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1588.77 0
+
+%MSG
+Begin processing the 477th record. Run 190595, Event 24065554, LumiSection 35 at 25-Apr-2012 15:03:06.115 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:03:13 CEST  Run: 190595 Event: 24065554
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.82 0
+
+%MSG
+Begin processing the 478th record. Run 190595, Event 24064898, LumiSection 35 at 25-Apr-2012 15:03:13.326 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:03:14 CEST  Run: 190595 Event: 24064898
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.84 0
+
+%MSG
+Begin processing the 479th record. Run 190595, Event 24077618, LumiSection 35 at 25-Apr-2012 15:03:14.784 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:03:18 CEST  Run: 190595 Event: 24077618
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1552.07 0
+
+%MSG
+Begin processing the 480th record. Run 190595, Event 24070314, LumiSection 35 at 25-Apr-2012 15:03:18.576 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:03:30 CEST  Run: 190595 Event: 24070314
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1559.26 0
+
+%MSG
+Begin processing the 481st record. Run 190595, Event 24075962, LumiSection 35 at 25-Apr-2012 15:03:30.260 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:03:34 CEST  Run: 190595 Event: 24075962
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1559.38 0
+
+%MSG
+Begin processing the 482nd record. Run 190595, Event 24076554, LumiSection 35 at 25-Apr-2012 15:03:34.220 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:03:40 CEST  Run: 190595 Event: 24076554
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1556.92 0
+
+%MSG
+Begin processing the 483rd record. Run 190595, Event 24073314, LumiSection 35 at 25-Apr-2012 15:03:40.225 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:03:48 CEST  Run: 190595 Event: 24073314
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1556.99 0
+
+%MSG
+Begin processing the 484th record. Run 190595, Event 24076914, LumiSection 35 at 25-Apr-2012 15:03:48.750 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:03:52 CEST  Run: 190595 Event: 24076914
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557 0
+
+%MSG
+Begin processing the 485th record. Run 190595, Event 24078058, LumiSection 35 at 25-Apr-2012 15:03:52.710 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:04:00 CEST  Run: 190595 Event: 24078058
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1555.6 0
+
+%MSG
+Begin processing the 486th record. Run 190595, Event 24078882, LumiSection 35 at 25-Apr-2012 15:04:00.544 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:04:04 CEST  Run: 190595 Event: 24078882
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1555.64 0
+
+%MSG
+Begin processing the 487th record. Run 190595, Event 24082882, LumiSection 35 at 25-Apr-2012 15:04:04.443 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:04:08 CEST  Run: 190595 Event: 24082882
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1555.64 0
+
+%MSG
+Begin processing the 488th record. Run 190595, Event 24084298, LumiSection 35 at 25-Apr-2012 15:04:08.486 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:04:19 CEST  Run: 190595 Event: 24084298
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.03 0
+
+%MSG
+Begin processing the 489th record. Run 190595, Event 24089162, LumiSection 35 at 25-Apr-2012 15:04:19.130 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:04:26 CEST  Run: 190595 Event: 24089162
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.03 0
+
+%MSG
+Begin processing the 490th record. Run 190595, Event 24086746, LumiSection 35 at 25-Apr-2012 15:04:26.044 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:04:31 CEST  Run: 190595 Event: 24086746
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.03 0
+
+%MSG
+Begin processing the 491st record. Run 190595, Event 24091402, LumiSection 35 at 25-Apr-2012 15:04:31.910 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:04:40 CEST  Run: 190595 Event: 24091402
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.03 0
+
+%MSG
+Begin processing the 492nd record. Run 190595, Event 24089770, LumiSection 35 at 25-Apr-2012 15:04:40.803 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:04:45 CEST  Run: 190595 Event: 24089770
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.03 0
+
+%MSG
+Begin processing the 493rd record. Run 190595, Event 24097570, LumiSection 35 at 25-Apr-2012 15:04:45.884 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:04:50 CEST  Run: 190595 Event: 24097570
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.03 0
+
+%MSG
+Begin processing the 494th record. Run 190595, Event 24108698, LumiSection 35 at 25-Apr-2012 15:04:50.571 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:04:54 CEST  Run: 190595 Event: 24108698
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.03 0
+
+%MSG
+Begin processing the 495th record. Run 190595, Event 24105162, LumiSection 35 at 25-Apr-2012 15:04:54.353 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:05:00 CEST  Run: 190595 Event: 24105162
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.03 0
+
+%MSG
+Begin processing the 496th record. Run 190595, Event 24105946, LumiSection 35 at 25-Apr-2012 15:05:00.366 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:05:07 CEST  Run: 190595 Event: 24105946
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.03 0
+
+%MSG
+Begin processing the 497th record. Run 190595, Event 24112522, LumiSection 35 at 25-Apr-2012 15:05:07.924 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:05:11 CEST  Run: 190595 Event: 24112522
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.03 0
+
+%MSG
+Begin processing the 498th record. Run 190595, Event 24112090, LumiSection 35 at 25-Apr-2012 15:05:11.424 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:05:14 CEST  Run: 190595 Event: 24112090
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.03 0
+
+%MSG
+Begin processing the 499th record. Run 190595, Event 24121802, LumiSection 35 at 25-Apr-2012 15:05:14.063 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:05:19 CEST  Run: 190595 Event: 24121802
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1555.12 0
+
+%MSG
+Begin processing the 500th record. Run 190595, Event 24125522, LumiSection 35 at 25-Apr-2012 15:05:19.282 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:05:24 CEST  Run: 190595 Event: 24125522
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1555.12 0
+
+%MSG
+Begin processing the 501st record. Run 190595, Event 24128314, LumiSection 35 at 25-Apr-2012 15:05:24.556 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:05:30 CEST  Run: 190595 Event: 24128314
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1555.12 0
+
+%MSG
+Begin processing the 502nd record. Run 190595, Event 24131058, LumiSection 35 at 25-Apr-2012 15:05:30.872 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:05:35 CEST  Run: 190595 Event: 24131058
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1555.12 0
+
+%MSG
+Begin processing the 503rd record. Run 190595, Event 24130090, LumiSection 35 at 25-Apr-2012 15:05:35.793 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:05:44 CEST  Run: 190595 Event: 24130090
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1555.12 0
+
+%MSG
+Begin processing the 504th record. Run 190595, Event 24134634, LumiSection 35 at 25-Apr-2012 15:05:44.428 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:05:55 CEST  Run: 190595 Event: 24134634
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1560.64 0
+
+%MSG
+Begin processing the 505th record. Run 190595, Event 24135698, LumiSection 35 at 25-Apr-2012 15:05:55.251 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:06:06 CEST  Run: 190595 Event: 24135698
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1560.65 0
+
+%MSG
+Begin processing the 506th record. Run 190595, Event 24140618, LumiSection 35 at 25-Apr-2012 15:06:06.800 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:06:15 CEST  Run: 190595 Event: 24140618
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1560.78 0
+
+%MSG
+Begin processing the 507th record. Run 190595, Event 24140810, LumiSection 35 at 25-Apr-2012 15:06:15.721 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:06:20 CEST  Run: 190595 Event: 24140810
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1560.78 0
+
+%MSG
+Begin processing the 508th record. Run 190595, Event 24146682, LumiSection 35 at 25-Apr-2012 15:06:20.346 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:06:23 CEST  Run: 190595 Event: 24146682
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1559.31 0
+
+%MSG
+Begin processing the 509th record. Run 190595, Event 24149738, LumiSection 35 at 25-Apr-2012 15:06:23.930 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:06:28 CEST  Run: 190595 Event: 24149738
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.52 0
+
+%MSG
+Begin processing the 510th record. Run 190595, Event 24147994, LumiSection 35 at 25-Apr-2012 15:06:28.949 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:06:36 CEST  Run: 190595 Event: 24147994
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.52 0
+
+%MSG
+Begin processing the 511th record. Run 190595, Event 24156762, LumiSection 35 at 25-Apr-2012 15:06:36.177 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:06:39 CEST  Run: 190595 Event: 24156762
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.52 0
+
+%MSG
+Begin processing the 512th record. Run 190595, Event 24156066, LumiSection 35 at 25-Apr-2012 15:06:39.995 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:06:44 CEST  Run: 190595 Event: 24156066
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.52 0
+
+%MSG
+Begin processing the 513th record. Run 190595, Event 24153018, LumiSection 35 at 25-Apr-2012 15:06:44.456 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:06:50 CEST  Run: 190595 Event: 24153018
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.52 0
+
+%MSG
+Begin processing the 514th record. Run 190595, Event 24153978, LumiSection 35 at 25-Apr-2012 15:06:50.214 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:06:56 CEST  Run: 190595 Event: 24153978
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.52 0
+
+%MSG
+Begin processing the 515th record. Run 190595, Event 24158002, LumiSection 35 at 25-Apr-2012 15:06:56.229 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:07:02 CEST  Run: 190595 Event: 24158002
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.52 0
+
+%MSG
+Begin processing the 516th record. Run 190595, Event 24161358, LumiSection 35 at 25-Apr-2012 15:07:02.216 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:07:03 CEST  Run: 190595 Event: 24161358
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1557.52 0
+
+%MSG
+Begin processing the 517th record. Run 190595, Event 24165774, LumiSection 35 at 25-Apr-2012 15:07:03.861 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:07:09 CEST  Run: 190595 Event: 24165774
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1555.03 0
+
+%MSG
+Begin processing the 518th record. Run 190595, Event 24168750, LumiSection 35 at 25-Apr-2012 15:07:10.024 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:07:12 CEST  Run: 190595 Event: 24168750
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1555.03 0
+
+%MSG
+Begin processing the 519th record. Run 190595, Event 24168462, LumiSection 35 at 25-Apr-2012 15:07:12.273 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:07:13 CEST  Run: 190595 Event: 24168462
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1555.03 0
+
+%MSG
+Begin processing the 520th record. Run 190595, Event 24169518, LumiSection 35 at 25-Apr-2012 15:07:13.872 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:07:17 CEST  Run: 190595 Event: 24169518
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1555.03 0
+
+%MSG
+Begin processing the 521st record. Run 190595, Event 24167470, LumiSection 35 at 25-Apr-2012 15:07:17.195 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:07:20 CEST  Run: 190595 Event: 24167470
+MemoryCheck: event : VSIZE 2178.86 0 RSS 1555.03 0
+
+%MSG
+Begin processing the 522nd record. Run 190595, Event 24173470, LumiSection 35 at 25-Apr-2012 15:07:20.648 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:07:25 CEST  Run: 190595 Event: 24173470
+MemoryCheck: event : VSIZE 2182.86 0 RSS 1554.3 0
+
+%MSG
+Begin processing the 523rd record. Run 190595, Event 24173742, LumiSection 35 at 25-Apr-2012 15:07:25.173 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:07:29 CEST  Run: 190595 Event: 24173742
+MemoryCheck: event : VSIZE 2182.86 0 RSS 1554.3 0
+
+%MSG
+Begin processing the 524th record. Run 190595, Event 24181910, LumiSection 35 at 25-Apr-2012 15:07:29.035 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:07:34 CEST  Run: 190595 Event: 24181910
+MemoryCheck: event : VSIZE 2182.86 0 RSS 1554.3 0
+
+%MSG
+Begin processing the 525th record. Run 190595, Event 24180270, LumiSection 35 at 25-Apr-2012 15:07:34.582 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:07:38 CEST  Run: 190595 Event: 24180270
+MemoryCheck: event : VSIZE 2182.86 0 RSS 1554.3 0
+
+%MSG
+Begin processing the 526th record. Run 190595, Event 24182670, LumiSection 35 at 25-Apr-2012 15:07:38.389 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:07:40 CEST  Run: 190595 Event: 24182670
+MemoryCheck: event : VSIZE 2182.86 0 RSS 1554.3 0
+
+%MSG
+Begin processing the 527th record. Run 190595, Event 24190094, LumiSection 35 at 25-Apr-2012 15:07:40.794 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:07:45 CEST  Run: 190595 Event: 24190094
+MemoryCheck: event : VSIZE 2182.86 0 RSS 1554.3 0
+
+%MSG
+Begin processing the 528th record. Run 190595, Event 24193198, LumiSection 35 at 25-Apr-2012 15:07:45.950 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:07:51 CEST  Run: 190595 Event: 24193198
+MemoryCheck: event : VSIZE 2182.86 0 RSS 1554.3 0
+
+%MSG
+Begin processing the 529th record. Run 190595, Event 24190638, LumiSection 35 at 25-Apr-2012 15:07:51.334 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:08:00 CEST  Run: 190595 Event: 24190638
+MemoryCheck: event : VSIZE 2182.86 0 RSS 1554.3 0
+
+%MSG
+Begin processing the 530th record. Run 190595, Event 24200566, LumiSection 35 at 25-Apr-2012 15:08:00.729 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:08:03 CEST  Run: 190595 Event: 24200566
+MemoryCheck: event : VSIZE 2182.86 0 RSS 1554.3 0
+
+%MSG
+Begin processing the 531st record. Run 190595, Event 24206086, LumiSection 35 at 25-Apr-2012 15:08:03.177 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:08:09 CEST  Run: 190595 Event: 24206086
+MemoryCheck: event : VSIZE 2182.86 0 RSS 1554.3 0
+
+%MSG
+Begin processing the 532nd record. Run 190595, Event 24207990, LumiSection 35 at 25-Apr-2012 15:08:09.591 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:08:16 CEST  Run: 190595 Event: 24207990
+MemoryCheck: event : VSIZE 2182.86 0 RSS 1554.3 0
+
+%MSG
+Begin processing the 533rd record. Run 190595, Event 24210102, LumiSection 35 at 25-Apr-2012 15:08:16.098 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:08:21 CEST  Run: 190595 Event: 24210102
+MemoryCheck: event : VSIZE 2182.86 0 RSS 1554.3 0
+
+%MSG
+Begin processing the 534th record. Run 190595, Event 24214910, LumiSection 35 at 25-Apr-2012 15:08:21.790 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:08:26 CEST  Run: 190595 Event: 24214910
+MemoryCheck: event : VSIZE 2182.86 0 RSS 1554.3 0
+
+%MSG
+Begin processing the 535th record. Run 190595, Event 24218150, LumiSection 35 at 25-Apr-2012 15:08:26.525 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:08:33 CEST  Run: 190595 Event: 24218150
+MemoryCheck: event : VSIZE 2182.86 0 RSS 1554.3 0
+
+%MSG
+Begin processing the 536th record. Run 190595, Event 24220918, LumiSection 35 at 25-Apr-2012 15:08:33.434 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:08:39 CEST  Run: 190595 Event: 24220918
+MemoryCheck: event : VSIZE 2182.86 0 RSS 1554.3 0
+
+%MSG
+Begin processing the 537th record. Run 190595, Event 24228326, LumiSection 35 at 25-Apr-2012 15:08:39.674 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:08:50 CEST  Run: 190595 Event: 24228326
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1557.61 0
+
+%MSG
+Begin processing the 538th record. Run 190595, Event 24223126, LumiSection 35 at 25-Apr-2012 15:08:50.663 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:08:55 CEST  Run: 190595 Event: 24223126
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1558.11 0
+
+%MSG
+Begin processing the 539th record. Run 190595, Event 24229262, LumiSection 35 at 25-Apr-2012 15:08:55.309 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:09:00 CEST  Run: 190595 Event: 24229262
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1558.15 0
+
+%MSG
+Begin processing the 540th record. Run 190595, Event 24223910, LumiSection 35 at 25-Apr-2012 15:09:00.363 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:09:05 CEST  Run: 190595 Event: 24223910
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1558.15 0
+
+%MSG
+Begin processing the 541st record. Run 190595, Event 24225862, LumiSection 35 at 25-Apr-2012 15:09:05.368 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:09:11 CEST  Run: 190595 Event: 24225862
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1558.16 0
+
+%MSG
+Begin processing the 542nd record. Run 190595, Event 24224214, LumiSection 35 at 25-Apr-2012 15:09:11.971 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:09:19 CEST  Run: 190595 Event: 24224214
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1558.16 0
+
+%MSG
+Begin processing the 543rd record. Run 190595, Event 24234166, LumiSection 35 at 25-Apr-2012 15:09:19.371 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:09:24 CEST  Run: 190595 Event: 24234166
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1558.16 0
+
+%MSG
+Begin processing the 544th record. Run 190595, Event 24235622, LumiSection 35 at 25-Apr-2012 15:09:24.841 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:09:29 CEST  Run: 190595 Event: 24235622
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1558.16 0
+
+%MSG
+Begin processing the 545th record. Run 190595, Event 24232358, LumiSection 35 at 25-Apr-2012 15:09:29.340 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:09:39 CEST  Run: 190595 Event: 24232358
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1559.35 0
+
+%MSG
+Begin processing the 546th record. Run 190595, Event 24238494, LumiSection 35 at 25-Apr-2012 15:09:39.963 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:09:45 CEST  Run: 190595 Event: 24238494
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1559.59 0
+
+%MSG
+Begin processing the 547th record. Run 190595, Event 24239678, LumiSection 35 at 25-Apr-2012 15:09:45.523 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:09:52 CEST  Run: 190595 Event: 24239678
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1559.62 0
+
+%MSG
+Begin processing the 548th record. Run 190595, Event 24242494, LumiSection 35 at 25-Apr-2012 15:09:52.120 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:09:58 CEST  Run: 190595 Event: 24242494
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1559.62 0
+
+%MSG
+Begin processing the 549th record. Run 190595, Event 24244910, LumiSection 35 at 25-Apr-2012 15:09:58.044 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:10:02 CEST  Run: 190595 Event: 24244910
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1559.62 0
+
+%MSG
+Begin processing the 550th record. Run 190595, Event 24259722, LumiSection 35 at 25-Apr-2012 15:10:02.520 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:10:04 CEST  Run: 190595 Event: 24259722
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1559.62 0
+
+%MSG
+Begin processing the 551st record. Run 190595, Event 24260730, LumiSection 35 at 25-Apr-2012 15:10:04.650 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:10:06 CEST  Run: 190595 Event: 24260730
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1555.1 0
+
+%MSG
+Begin processing the 552nd record. Run 190595, Event 24260026, LumiSection 35 at 25-Apr-2012 15:10:06.633 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:10:10 CEST  Run: 190595 Event: 24260026
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1555.1 0
+
+%MSG
+Begin processing the 553rd record. Run 190595, Event 24267754, LumiSection 35 at 25-Apr-2012 15:10:10.687 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:10:13 CEST  Run: 190595 Event: 24267754
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1555.1 0
+
+%MSG
+Begin processing the 554th record. Run 190595, Event 24276202, LumiSection 35 at 25-Apr-2012 15:10:13.202 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:10:16 CEST  Run: 190595 Event: 24276202
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1555.1 0
+
+%MSG
+Begin processing the 555th record. Run 190595, Event 24276770, LumiSection 35 at 25-Apr-2012 15:10:16.603 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:10:23 CEST  Run: 190595 Event: 24276770
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1555.1 0
+
+%MSG
+Begin processing the 556th record. Run 190595, Event 24287106, LumiSection 35 at 25-Apr-2012 15:10:23.636 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:10:28 CEST  Run: 190595 Event: 24287106
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1555.1 0
+
+%MSG
+Begin processing the 557th record. Run 190595, Event 24287810, LumiSection 35 at 25-Apr-2012 15:10:28.385 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:10:32 CEST  Run: 190595 Event: 24287810
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1555.1 0
+
+%MSG
+Begin processing the 558th record. Run 190595, Event 24288194, LumiSection 35 at 25-Apr-2012 15:10:32.350 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:10:41 CEST  Run: 190595 Event: 24288194
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1555.1 0
+
+%MSG
+Begin processing the 559th record. Run 190595, Event 24291986, LumiSection 35 at 25-Apr-2012 15:10:41.458 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:10:49 CEST  Run: 190595 Event: 24291986
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1555.1 0
+
+%MSG
+Begin processing the 560th record. Run 190595, Event 24299882, LumiSection 35 at 25-Apr-2012 15:10:49.244 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:10:51 CEST  Run: 190595 Event: 24299882
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1555.1 0
+
+%MSG
+Begin processing the 561st record. Run 190595, Event 24299026, LumiSection 35 at 25-Apr-2012 15:10:51.459 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:10:57 CEST  Run: 190595 Event: 24299026
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1555.1 0
+
+%MSG
+Begin processing the 562nd record. Run 190595, Event 24296674, LumiSection 35 at 25-Apr-2012 15:10:57.315 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:11:01 CEST  Run: 190595 Event: 24296674
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1555.1 0
+
+%MSG
+Begin processing the 563rd record. Run 190595, Event 24309266, LumiSection 35 at 25-Apr-2012 15:11:01.762 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:11:03 CEST  Run: 190595 Event: 24309266
+MemoryCheck: event : VSIZE 2186.86 0 RSS 1555.1 0
+
+%MSG
+Begin processing the 564th record. Run 190595, Event 24318010, LumiSection 35 at 25-Apr-2012 15:11:03.802 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:11:15 CEST  Run: 190595 Event: 24318010
+MemoryCheck: event : VSIZE 2190.86 0 RSS 1561.12 0
+
+%MSG
+Begin processing the 565th record. Run 190595, Event 24323162, LumiSection 35 at 25-Apr-2012 15:11:15.177 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:11:22 CEST  Run: 190595 Event: 24323162
+MemoryCheck: event : VSIZE 2190.86 0 RSS 1561.13 0
+
+%MSG
+Begin processing the 566th record. Run 190595, Event 24322714, LumiSection 35 at 25-Apr-2012 15:11:22.868 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:11:34 CEST  Run: 190595 Event: 24322714
+MemoryCheck: event : VSIZE 2190.86 0 RSS 1561.15 0
+
+%MSG
+Begin processing the 567th record. Run 190595, Event 24331410, LumiSection 35 at 25-Apr-2012 15:11:34.191 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:11:40 CEST  Run: 190595 Event: 24331410
+MemoryCheck: event : VSIZE 2190.86 0 RSS 1561.63 0
+
+%MSG
+Begin processing the 568th record. Run 190595, Event 24329298, LumiSection 35 at 25-Apr-2012 15:11:40.843 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:11:46 CEST  Run: 190595 Event: 24329298
+MemoryCheck: event : VSIZE 2190.86 0 RSS 1561.63 0
+
+%MSG
+Begin processing the 569th record. Run 190595, Event 24334298, LumiSection 35 at 25-Apr-2012 15:11:46.756 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:11:51 CEST  Run: 190595 Event: 24334298
+MemoryCheck: event : VSIZE 2190.86 0 RSS 1561.63 0
+
+%MSG
+Begin processing the 570th record. Run 190595, Event 24336474, LumiSection 35 at 25-Apr-2012 15:11:51.607 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:11:54 CEST  Run: 190595 Event: 24336474
+MemoryCheck: event : VSIZE 2190.86 0 RSS 1560.7 0
+
+%MSG
+Begin processing the 571st record. Run 190595, Event 24119994, LumiSection 35 at 25-Apr-2012 15:11:54.276 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:11:58 CEST  Run: 190595 Event: 24119994
+MemoryCheck: event : VSIZE 2190.86 0 RSS 1558.73 0
+
+%MSG
+Begin processing the 572nd record. Run 190595, Event 24257498, LumiSection 35 at 25-Apr-2012 15:11:58.612 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:12:03 CEST  Run: 190595 Event: 24257498
+MemoryCheck: event : VSIZE 2190.86 0 RSS 1558.73 0
+
+%MSG
+Begin processing the 573rd record. Run 190595, Event 23595146, LumiSection 35 at 25-Apr-2012 15:12:03.341 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:12:09 CEST  Run: 190595 Event: 23595146
+MemoryCheck: event : VSIZE 2190.86 0 RSS 1558.73 0
+
+%MSG
+Begin processing the 574th record. Run 190595, Event 23594778, LumiSection 35 at 25-Apr-2012 15:12:09.841 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:12:13 CEST  Run: 190595 Event: 23594778
+MemoryCheck: event : VSIZE 2190.86 0 RSS 1558.73 0
+
+%MSG
+Begin processing the 575th record. Run 190595, Event 23595570, LumiSection 35 at 25-Apr-2012 15:12:13.267 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:12:16 CEST  Run: 190595 Event: 23595570
+MemoryCheck: event : VSIZE 2190.86 0 RSS 1558.73 0
+
+%MSG
+Begin processing the 576th record. Run 190595, Event 23592490, LumiSection 35 at 25-Apr-2012 15:12:16.802 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:12:28 CEST  Run: 190595 Event: 23592490
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1561.42 0
+
+%MSG
+Begin processing the 577th record. Run 190595, Event 23594554, LumiSection 35 at 25-Apr-2012 15:12:28.369 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:12:30 CEST  Run: 190595 Event: 23594554
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1561.42 0
+
+%MSG
+Begin processing the 578th record. Run 190595, Event 23598698, LumiSection 35 at 25-Apr-2012 15:12:30.669 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:12:35 CEST  Run: 190595 Event: 23598698
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 579th record. Run 190595, Event 23603346, LumiSection 35 at 25-Apr-2012 15:12:35.278 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:12:42 CEST  Run: 190595 Event: 23603346
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 580th record. Run 190595, Event 23603586, LumiSection 35 at 25-Apr-2012 15:12:42.266 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:12:47 CEST  Run: 190595 Event: 23603586
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 581st record. Run 190595, Event 23611618, LumiSection 35 at 25-Apr-2012 15:12:47.957 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:12:54 CEST  Run: 190595 Event: 23611618
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 582nd record. Run 190595, Event 23613730, LumiSection 35 at 25-Apr-2012 15:12:54.564 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:13:02 CEST  Run: 190595 Event: 23613730
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 583rd record. Run 190595, Event 23627146, LumiSection 35 at 25-Apr-2012 15:13:02.078 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:13:11 CEST  Run: 190595 Event: 23627146
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 584th record. Run 190595, Event 23628938, LumiSection 35 at 25-Apr-2012 15:13:11.770 CEST
+%MSG-w CSCSectorReceiverMiniLUT:  L1TCSCTF:l1tCsctf 25-Apr-2012 15:13:13 CEST  Run: 190595 Event: 23628938
++++ Value of cscid, 2, is out of bounds, [1, 9] -- or -- Value of wire group, 127, exceeds max allowed, 119 +++
+
+%MSG
+%MSG-w CSCSectorReceiverMiniLUT:  L1TCSCTF:l1tCsctf 25-Apr-2012 15:13:13 CEST  Run: 190595 Event: 23628938
++++ Value of cscid, 2, is out of bounds, [1, 9] -- or -- Value of wire group, 127, exceeds max allowed, 119 +++
+
+%MSG
+%MSG-w CSCSectorReceiverMiniLUT:  CSCTFTrackProducer:valCsctfTrackDigis  25-Apr-2012 15:13:13 CEST Run: 190595 Event: 23628938
++++ Value of cscid, 2, is out of bounds, [1, 9] -- or -- Value of wire group, 127, exceeds max allowed, 119 +++
+
+%MSG
+%MSG-w CSCSectorReceiverMiniLUT:  CSCTFTrackProducer:valCsctfTrackDigis  25-Apr-2012 15:13:13 CEST Run: 190595 Event: 23628938
++++ Value of cscid, 2, is out of bounds, [1, 9] -- or -- Value of wire group, 127, exceeds max allowed, 119 +++
+
+%MSG
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:13:14 CEST  Run: 190595 Event: 23628938
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 585th record. Run 190595, Event 23635050, LumiSection 35 at 25-Apr-2012 15:13:14.164 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:13:20 CEST  Run: 190595 Event: 23635050
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 586th record. Run 190595, Event 23643338, LumiSection 35 at 25-Apr-2012 15:13:20.731 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:13:23 CEST  Run: 190595 Event: 23643338
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 587th record. Run 190595, Event 23642082, LumiSection 35 at 25-Apr-2012 15:13:24.001 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:13:26 CEST  Run: 190595 Event: 23642082
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 588th record. Run 190595, Event 23650226, LumiSection 35 at 25-Apr-2012 15:13:26.067 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:13:29 CEST  Run: 190595 Event: 23650226
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 589th record. Run 190595, Event 23647858, LumiSection 35 at 25-Apr-2012 15:13:29.477 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:13:35 CEST  Run: 190595 Event: 23647858
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 590th record. Run 190595, Event 23653146, LumiSection 35 at 25-Apr-2012 15:13:36.026 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:13:41 CEST  Run: 190595 Event: 23653146
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 591st record. Run 190595, Event 23655530, LumiSection 35 at 25-Apr-2012 15:13:41.043 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:13:43 CEST  Run: 190595 Event: 23655530
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 592nd record. Run 190595, Event 23659002, LumiSection 35 at 25-Apr-2012 15:13:43.653 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:13:48 CEST  Run: 190595 Event: 23659002
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 593rd record. Run 190595, Event 23657850, LumiSection 35 at 25-Apr-2012 15:13:48.051 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:13:52 CEST  Run: 190595 Event: 23657850
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 594th record. Run 190595, Event 23658874, LumiSection 35 at 25-Apr-2012 15:13:52.244 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:13:56 CEST  Run: 190595 Event: 23658874
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 595th record. Run 190595, Event 23665290, LumiSection 35 at 25-Apr-2012 15:13:56.632 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:14:00 CEST  Run: 190595 Event: 23665290
+MemoryCheck: event : VSIZE 2194.86 0 RSS 1557.85 0
+
+%MSG
+Begin processing the 596th record. Run 190595, Event 23664130, LumiSection 35 at 25-Apr-2012 15:14:00.932 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:14:07 CEST  Run: 190595 Event: 23664130
+MemoryCheck: event : VSIZE 2202.86 0 RSS 1560.35 0
+
+%MSG
+Begin processing the 597th record. Run 190595, Event 23668674, LumiSection 35 at 25-Apr-2012 15:14:07.630 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:14:16 CEST  Run: 190595 Event: 23668674
+MemoryCheck: event : VSIZE 2202.86 0 RSS 1560.36 0
+
+%MSG
+Begin processing the 598th record. Run 190595, Event 23673778, LumiSection 35 at 25-Apr-2012 15:14:16.988 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:14:22 CEST  Run: 190595 Event: 23673778
+MemoryCheck: event : VSIZE 2202.86 0 RSS 1560.36 0
+
+%MSG
+Begin processing the 599th record. Run 190595, Event 23676730, LumiSection 35 at 25-Apr-2012 15:14:22.027 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:14:24 CEST  Run: 190595 Event: 23676730
+MemoryCheck: event : VSIZE 2202.86 0 RSS 1560.36 0
+
+%MSG
+Begin processing the 600th record. Run 190595, Event 23679378, LumiSection 35 at 25-Apr-2012 15:14:24.976 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:14:28 CEST  Run: 190595 Event: 23679378
+MemoryCheck: event : VSIZE 2202.86 0 RSS 1559 0
+
+%MSG
+Begin processing the 601st record. Run 190595, Event 23678130, LumiSection 35 at 25-Apr-2012 15:14:28.021 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:14:29 CEST  Run: 190595 Event: 23678130
+MemoryCheck: event : VSIZE 2202.86 0 RSS 1559 0
+
+%MSG
+Begin processing the 602nd record. Run 190595, Event 23679202, LumiSection 35 at 25-Apr-2012 15:14:29.962 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:14:32 CEST  Run: 190595 Event: 23679202
+MemoryCheck: event : VSIZE 2202.86 0 RSS 1559.01 0
+
+%MSG
+Begin processing the 603rd record. Run 190595, Event 23677970, LumiSection 35 at 25-Apr-2012 15:14:32.412 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:14:39 CEST  Run: 190595 Event: 23677970
+MemoryCheck: event : VSIZE 2202.86 0 RSS 1559.01 0
+
+%MSG
+Begin processing the 604th record. Run 190595, Event 23686402, LumiSection 35 at 25-Apr-2012 15:14:39.981 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:14:45 CEST  Run: 190595 Event: 23686402
+MemoryCheck: event : VSIZE 2202.86 0 RSS 1559.02 0
+
+%MSG
+Begin processing the 605th record. Run 190595, Event 23686146, LumiSection 35 at 25-Apr-2012 15:14:45.976 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:14:49 CEST  Run: 190595 Event: 23686146
+MemoryCheck: event : VSIZE 2202.86 0 RSS 1559.02 0
+
+%MSG
+Begin processing the 606th record. Run 190595, Event 23690114, LumiSection 35 at 25-Apr-2012 15:14:49.655 CEST
+NMax Jets exceded..
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:15:11 CEST  Run: 190595 Event: 23690114
+MemoryCheck: event : VSIZE 2226.86 0 RSS 1604.61 0
+
+%MSG
+Begin processing the 607th record. Run 190595, Event 23689226, LumiSection 35 at 25-Apr-2012 15:15:11.431 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:15:16 CEST  Run: 190595 Event: 23689226
+MemoryCheck: event : VSIZE 2218.86 0 RSS 1563.89 0
+
+%MSG
+Begin processing the 608th record. Run 190595, Event 23689306, LumiSection 35 at 25-Apr-2012 15:15:16.206 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:15:22 CEST  Run: 190595 Event: 23689306
+MemoryCheck: event : VSIZE 2218.86 0 RSS 1561.11 0
+
+%MSG
+Begin processing the 609th record. Run 190595, Event 23697722, LumiSection 35 at 25-Apr-2012 15:15:22.275 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:15:30 CEST  Run: 190595 Event: 23697722
+MemoryCheck: event : VSIZE 2218.86 0 RSS 1561.47 0
+
+%MSG
+Begin processing the 610th record. Run 190595, Event 23699114, LumiSection 35 at 25-Apr-2012 15:15:30.482 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:15:35 CEST  Run: 190595 Event: 23699114
+MemoryCheck: event : VSIZE 2218.86 0 RSS 1561.48 0
+
+%MSG
+Begin processing the 611th record. Run 190595, Event 23707802, LumiSection 35 at 25-Apr-2012 15:15:35.641 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:15:40 CEST  Run: 190595 Event: 23707802
+MemoryCheck: event : VSIZE 2218.86 0 RSS 1561.87 0
+
+%MSG
+Begin processing the 612th record. Run 190595, Event 23712650, LumiSection 35 at 25-Apr-2012 15:15:40.480 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:15:43 CEST  Run: 190595 Event: 23712650
+MemoryCheck: event : VSIZE 2218.86 0 RSS 1561.55 0
+
+%MSG
+Begin processing the 613th record. Run 190595, Event 23715802, LumiSection 35 at 25-Apr-2012 15:15:43.141 CEST
+NMax Jets exceded..
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:15:59 CEST  Run: 190595 Event: 23715802
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1586.28 0
+
+%MSG
+Begin processing the 614th record. Run 190595, Event 23718210, LumiSection 35 at 25-Apr-2012 15:15:59.670 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:16:01 CEST  Run: 190595 Event: 23718210
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1566.35 0
+
+%MSG
+Begin processing the 615th record. Run 190595, Event 23740634, LumiSection 35 at 25-Apr-2012 15:16:01.902 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:16:05 CEST  Run: 190595 Event: 23740634
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1557.69 0
+
+%MSG
+Begin processing the 616th record. Run 190595, Event 23733098, LumiSection 35 at 25-Apr-2012 15:16:05.328 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:16:12 CEST  Run: 190595 Event: 23733098
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1558.02 0
+
+%MSG
+Begin processing the 617th record. Run 190595, Event 23736970, LumiSection 35 at 25-Apr-2012 15:16:12.738 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:16:16 CEST  Run: 190595 Event: 23736970
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1558.04 0
+
+%MSG
+Begin processing the 618th record. Run 190595, Event 23738298, LumiSection 35 at 25-Apr-2012 15:16:16.822 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:16:20 CEST  Run: 190595 Event: 23738298
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1558.04 0
+
+%MSG
+Begin processing the 619th record. Run 190595, Event 23733802, LumiSection 35 at 25-Apr-2012 15:16:20.392 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:16:29 CEST  Run: 190595 Event: 23733802
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1558.45 0
+
+%MSG
+Begin processing the 620th record. Run 190595, Event 23742578, LumiSection 35 at 25-Apr-2012 15:16:29.157 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:16:32 CEST  Run: 190595 Event: 23742578
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1558.46 0
+
+%MSG
+Begin processing the 621st record. Run 190595, Event 23741370, LumiSection 35 at 25-Apr-2012 15:16:32.209 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:16:38 CEST  Run: 190595 Event: 23741370
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1558.46 0
+
+%MSG
+Begin processing the 622nd record. Run 190595, Event 23747610, LumiSection 35 at 25-Apr-2012 15:16:38.759 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:16:41 CEST  Run: 190595 Event: 23747610
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1558.46 0
+
+%MSG
+Begin processing the 623rd record. Run 190595, Event 23749146, LumiSection 35 at 25-Apr-2012 15:16:41.328 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:16:45 CEST  Run: 190595 Event: 23749146
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1558.47 0
+
+%MSG
+Begin processing the 624th record. Run 190595, Event 23753938, LumiSection 35 at 25-Apr-2012 15:16:45.939 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:16:49 CEST  Run: 190595 Event: 23753938
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1558.47 0
+
+%MSG
+Begin processing the 625th record. Run 190595, Event 23755522, LumiSection 35 at 25-Apr-2012 15:16:49.198 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:16:57 CEST  Run: 190595 Event: 23755522
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.01 0
+
+%MSG
+Begin processing the 626th record. Run 190595, Event 23761658, LumiSection 35 at 25-Apr-2012 15:16:57.575 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:17:02 CEST  Run: 190595 Event: 23761658
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.02 0
+
+%MSG
+Begin processing the 627th record. Run 190595, Event 23763274, LumiSection 35 at 25-Apr-2012 15:17:02.381 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:17:05 CEST  Run: 190595 Event: 23763274
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.02 0
+
+%MSG
+Begin processing the 628th record. Run 190595, Event 23764386, LumiSection 35 at 25-Apr-2012 15:17:05.405 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:17:08 CEST  Run: 190595 Event: 23764386
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.02 0
+
+%MSG
+Begin processing the 629th record. Run 190595, Event 23769562, LumiSection 35 at 25-Apr-2012 15:17:09.009 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:17:11 CEST  Run: 190595 Event: 23769562
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.02 0
+
+%MSG
+Begin processing the 630th record. Run 190595, Event 23765738, LumiSection 35 at 25-Apr-2012 15:17:11.077 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:17:15 CEST  Run: 190595 Event: 23765738
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.02 0
+
+%MSG
+Begin processing the 631st record. Run 190595, Event 23765466, LumiSection 35 at 25-Apr-2012 15:17:15.339 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:17:20 CEST  Run: 190595 Event: 23765466
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.03 0
+
+%MSG
+Begin processing the 632nd record. Run 190595, Event 23771002, LumiSection 35 at 25-Apr-2012 15:17:20.959 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:17:25 CEST  Run: 190595 Event: 23771002
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.03 0
+
+%MSG
+Begin processing the 633rd record. Run 190595, Event 23776914, LumiSection 35 at 25-Apr-2012 15:17:25.490 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:17:32 CEST  Run: 190595 Event: 23776914
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.04 0
+
+%MSG
+Begin processing the 634th record. Run 190595, Event 23780882, LumiSection 35 at 25-Apr-2012 15:17:32.428 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:17:38 CEST  Run: 190595 Event: 23780882
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.04 0
+
+%MSG
+Begin processing the 635th record. Run 190595, Event 23780938, LumiSection 35 at 25-Apr-2012 15:17:38.367 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:17:42 CEST  Run: 190595 Event: 23780938
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.05 0
+
+%MSG
+Begin processing the 636th record. Run 190595, Event 23781050, LumiSection 35 at 25-Apr-2012 15:17:42.791 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:17:47 CEST  Run: 190595 Event: 23781050
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.05 0
+
+%MSG
+Begin processing the 637th record. Run 190595, Event 23783482, LumiSection 35 at 25-Apr-2012 15:17:47.088 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:17:50 CEST  Run: 190595 Event: 23783482
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.05 0
+
+%MSG
+Begin processing the 638th record. Run 190595, Event 23784498, LumiSection 35 at 25-Apr-2012 15:17:50.821 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:17:54 CEST  Run: 190595 Event: 23784498
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.06 0
+
+%MSG
+Begin processing the 639th record. Run 190595, Event 23788746, LumiSection 35 at 25-Apr-2012 15:17:54.565 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:17:59 CEST  Run: 190595 Event: 23788746
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.06 0
+
+%MSG
+Begin processing the 640th record. Run 190595, Event 23787898, LumiSection 35 at 25-Apr-2012 15:17:59.382 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:18:01 CEST  Run: 190595 Event: 23787898
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.06 0
+
+%MSG
+Begin processing the 641st record. Run 190595, Event 23789258, LumiSection 35 at 25-Apr-2012 15:18:01.090 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:18:07 CEST  Run: 190595 Event: 23789258
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.07 0
+
+%MSG
+Begin processing the 642nd record. Run 190595, Event 23794658, LumiSection 35 at 25-Apr-2012 15:18:07.225 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:18:15 CEST  Run: 190595 Event: 23794658
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.07 0
+
+%MSG
+Begin processing the 643rd record. Run 190595, Event 23793834, LumiSection 35 at 25-Apr-2012 15:18:15.712 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:18:19 CEST  Run: 190595 Event: 23793834
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.08 0
+
+%MSG
+Begin processing the 644th record. Run 190595, Event 23795418, LumiSection 35 at 25-Apr-2012 15:18:19.232 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:18:21 CEST  Run: 190595 Event: 23795418
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.08 0
+
+%MSG
+Begin processing the 645th record. Run 190595, Event 23801466, LumiSection 35 at 25-Apr-2012 15:18:21.822 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:18:25 CEST  Run: 190595 Event: 23801466
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.08 0
+
+%MSG
+Begin processing the 646th record. Run 190595, Event 23798306, LumiSection 35 at 25-Apr-2012 15:18:25.289 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:18:31 CEST  Run: 190595 Event: 23798306
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.09 0
+
+%MSG
+Begin processing the 647th record. Run 190595, Event 23806370, LumiSection 35 at 25-Apr-2012 15:18:31.062 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:18:35 CEST  Run: 190595 Event: 23806370
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.09 0
+
+%MSG
+Begin processing the 648th record. Run 190595, Event 23807098, LumiSection 35 at 25-Apr-2012 15:18:35.326 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:18:38 CEST  Run: 190595 Event: 23807098
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.09 0
+
+%MSG
+Begin processing the 649th record. Run 190595, Event 23811114, LumiSection 35 at 25-Apr-2012 15:18:38.833 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:18:42 CEST  Run: 190595 Event: 23811114
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.1 0
+
+%MSG
+Begin processing the 650th record. Run 190595, Event 23814122, LumiSection 35 at 25-Apr-2012 15:18:42.300 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:18:45 CEST  Run: 190595 Event: 23814122
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.1 0
+
+%MSG
+Begin processing the 651st record. Run 190595, Event 23813386, LumiSection 35 at 25-Apr-2012 15:18:45.284 CEST
+%MSG-w MemoryCheck:  PostProcessPath 25-Apr-2012 15:18:51 CEST  Run: 190595 Event: 23813386
+MemoryCheck: event : VSIZE 2222.86 0 RSS 1559.11 0
+
+%MSG
+Begin processing the 652nd record. Run 190595, Event 23813834, LumiSection 35 at 25-Apr-2012 15:18:51.984 CEST
